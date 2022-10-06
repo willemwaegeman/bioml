@@ -7,7 +7,7 @@ aliases:
   - A. Chovie
   - A Chovie
 links:
-  home-page: users.ugent.be/~wwaegemn/
+  home-page: 
   email: willem.waegeman@ugent.be
   github: 
 ---

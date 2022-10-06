@@ -7,9 +7,9 @@ aliases:
   - A. Chovie
   - A Chovie
 links:
-  home-page: annechovie.com
+  home-page: 
   email: dimitrios.iliadis@ugent.be
-  github: github.com/diliadis
+  github: diliadis
 ---
 
 Phd student working on Multi-target prediction.
