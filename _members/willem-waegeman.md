@@ -7,6 +7,7 @@ aliases:
   - A. Chovie
   - A Chovie
 links:
+  orcid: 0000-0002-5950-3003
   home-page: 
   email: willem.waegeman@ugent.be
   github: 
