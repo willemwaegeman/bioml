@@ -7,25 +7,24 @@ nav:
 
 # <i class="fas fa-envelope"></i>Contact
 
-Our lab is part of the [Department of Metaphor](), at the school of [Whimsy and Caprice]().
-We are located on the 13th floor of the [Center for Wit and Sagacity]().
+Our lab is part of the [Kermit Research Unit](https://kermit.ugent.be/index.php), at the faculty of [Bioscience Engineering](https://www.ugent.be/bw/en) of Ghent University.
 
 {%
   include link.html
   type="email"
   icon=""
-  text="scrooge@mcduck.com"
+  text="willem.waegeman@ugent.be"
   tooltip=""
-  link="scrooge@mcduck.com"
+  link="willem.waegeman@ugent.be"
   style="button"
 %}
 {%
   include link.html
   type="phone"
   icon=""
-  text="(555) 867-5309"
+  text="(+32) 9 264.92.00"
   tooltip=""
-  link="+1-555-867-5309"
+  link="+32-92649200"
   style="button"
 %}
 {%
@@ -34,7 +33,7 @@ We are located on the 13th floor of the [Center for Wit and Sagacity]().
   icon=""
   text="Google Maps"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps/place/That+St+%26+The+Other+St,+Porters+Lake,+NS+B3E+1H3,+Canada/@44.7389237,-63.3033296,20.78z/data=!4m5!3m4!1s0x4b5a31023bb02565:0xb9505694e83a53d7!8m2!3d44.7389353!4d-63.3030828"
+  link="https://www.google.com/maps/dir//Coupure+Links+653,+9000+Gent/@51.0527795,3.7067699,17z/data=!4m9!4m8!1m0!1m5!1m1!1s0x47c3716be33c0fdb:0x13de981a81d5c757!2m2!1d3.7087226!2d51.053703!3e0?hl=nl"
   style="button"
 %}
 {:.center}
@@ -51,15 +50,15 @@ Canada
 {% capture col1 %}
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="The Center for Wit and Sagacity"
+  image="images/coupure2.jpg"
+  caption="Campus Coupure"
 %}
 {% endcapture %}
 {% capture col2 %}
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Department of Metaphor"
+  image="images/coupure3.jpg"
+  caption="Campus Coupure"
 %}
 {% endcapture %}
 {% include two-col.html col1=col1 col2=col2 %}
