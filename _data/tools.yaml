@@ -1,19 +1,9 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: DeepMTP
+  subtitle: 
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-
-- title: Cool Package
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  image: images/deepMTP_logo.png
+  link: https://github.com/diliadis/DeepMTP
+  description: a python-based deep learning framework for multi-target prediction
   repo: greenelab/lab-website-template
   tags:
     - resource
