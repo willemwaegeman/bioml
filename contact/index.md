@@ -50,14 +50,14 @@ Canada
 {% capture col1 %}
 {%
   include figure.html
-  image="images/coupure2.jpg"
+  image="images/coupure_2.jpg"
   caption="Campus Coupure"
 %}
 {% endcapture %}
 {% capture col2 %}
 {%
   include figure.html
-  image="images/coupure3.jpg"
+  image="images/coupure_3.jpg"
   caption="Campus Coupure"
 %}
 {% endcapture %}
