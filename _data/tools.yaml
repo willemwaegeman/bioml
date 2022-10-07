@@ -12,7 +12,7 @@
 
 - title: CpG Transformer
   group: featured
-  image: images/CpG_transformer.png
+  image: images/CpG_transformer_logo.png
   link: https://github.com/gdewael/cpg-transformer
   description: CpG Transformer for imputation of single-cell methylomes
   repo: greenelab/lab-website-template
