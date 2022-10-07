@@ -1,6 +1,6 @@
 - title: DeepMTP
   subtitle: 
-  group: multi-target prediction
+  group: featured
   image: images/deepMTP_logo.png
   link: https://github.com/diliadis/DeepMTP
   description: A python-based deep learning framework for multi-target prediction
@@ -8,22 +8,25 @@
   tags:
     - publication
     - software
-
-- title: Cool Tutorial
-  group: uncertainty
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-    - publication
+    - multi-target prediction
 
 - title: CpG Transformer
-  group: genomics
+  group: featured
   image: images/CpG_transformer.png
   link: https://github.com/gdewael/cpg-transformer
   description: CpG Transformer for imputation of single-cell methylomes
   repo: greenelab/lab-website-template
   tags:
+    - publication
+    - genomics
+    - transformers
+
+- title: Cool Tutorial
+  group: more
+  image: images/photo.jpg
+  link: https://github.com/
+  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  repo: greenelab/lab-website-template
+  tags:
+    - uncertainty
     - publication
