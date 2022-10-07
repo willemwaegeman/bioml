@@ -1,4 +1,123 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
-[]
+- id: doi:10.1007/s10994-021-06104-5
+  title: Multi-target prediction for dummies using two-branch neural networks
+  authors:
+  - Dimitrios Iliadis
+  - Bernard De Baets
+  - Willem Waegeman
+  publisher: Machine Learning
+  date: '2022-01-06'
+  link: https://doi.org/gqx4f5
+  orcid: 0000-0002-3676-5940
+  _cache: f003c75bd74fa2c7329f81fe8096ca5e4bb64f17f2f76b6408a54619b2158e12
+- id: doi:10.1007/s10462-022-10178-5
+  title: Valid prediction intervals for regression problems
+  authors:
+  - Nicolas Dewolf
+  - Bernard De Baets
+  - Willem Waegeman
+  publisher: Artificial Intelligence Review
+  date: '2022-04-18'
+  link: https://doi.org/gqx4f6
+  orcid: 0000-0002-3930-1420
+  _cache: 1f11de98c01c3eaa06a2c1983aa6e38d8ec1381ae5a08dc521a311b31be1f59c
+- id: doi:10.1016/j.csbj.2021.11.004
+  title: 'Bacterial species identification using MALDI-TOF mass spectrometry and machine
+    learning techniques: A large-scale benchmarking study'
+  authors:
+  - Thomas Mortier
+  - Anneleen D. Wieme
+  - Peter Vandamme
+  - Willem Waegeman
+  publisher: Computational and Structural Biotechnology Journal
+  date: '2021-01-01'
+  link: https://doi.org/gqx4f7
+  orcid: 0000-0001-9650-9263
+  _cache: cdf1ba353148f8fd06df72c355f47bf60ac29902c802e83ad9b5305a778e6a88
+- id: doi:10.1007/s00226-021-01302-9
+  title: 'Correction to: A protocol for automated timber species identification using
+    metabolome profiling'
+  authors:
+  - V. Deklerck
+  - T. Mortier
+  - N. Goeders
+  - R. B. Cody
+  - W. Waegeman
+  - E. Espinoza
+  - J. Van Acker
+  - J. Van den Bulcke
+  - H. Beeckman
+  publisher: Wood Science and Technology
+  date: '2021-07-19'
+  link: https://doi.org/gqx4f8
+  orcid: 0000-0001-9650-9263
+  _cache: 0eb68adb1f21767c973f1c81bee7b921b1e08622fcfe9e0d6649edc07f44e270
+- id: doi:10.1007/s10618-021-00751-x
+  title: Efficient set-valued prediction in multi-class classification
+  authors:
+  - Thomas Mortier
+  - Marek Wydmuch
+  - "Krzysztof Dembczy\u0144ski"
+  - "Eyke H\xFCllermeier"
+  - Willem Waegeman
+  publisher: Data Mining and Knowledge Discovery
+  date: '2021-05-06'
+  link: https://doi.org/gjwj74
+  orcid: 0000-0001-9650-9263
+  _cache: 16a9744b4001c1401b6af155a6a898d29cf4ff0598b267d90f9e94b0a20038b6
+- id: doi:10.1007/s00226-019-01111-1
+  title: A protocol for automated timber species identification using metabolome profiling
+  authors:
+  - V. Deklerck
+  - T. Mortier
+  - N. Goeders
+  - R. B. Cody
+  - W. Waegeman
+  - E. Espinoza
+  - J. Van Acker
+  - J. Van den Bulcke
+  - H. Beeckman
+  publisher: Wood Science and Technology
+  date: '2019-06-20'
+  link: https://doi.org/gqx4f9
+  orcid: 0000-0001-9650-9263
+  _cache: 87c3e7b9c98ca1a123f6df85b0af68828c91e9f5ea4cc37da714a70babd2f3a4
+- id: doi:10.1007/978-3-030-10925-7_18
+  title: 'Deep F-Measure Maximization in Multi-label Classification: A Comparative
+    Study'
+  authors:
+  - Stijn Decubber
+  - Thomas Mortier
+  - "Krzysztof Dembczy\u0144ski"
+  - Willem Waegeman
+  publisher: Machine Learning and Knowledge Discovery in Databases
+  date: '2019-01-01'
+  link: https://doi.org/gqx4gb
+  orcid: 0000-0001-9650-9263
+  _cache: 0bc283b6f99e564c0213f3ecef435453294ef9f271c3f3e26a9cb6d762d1e4b7
+- id: doi:10.1093/bioinformatics/btab746
+  title: CpG Transformer for imputation of single-cell methylomes
+  authors:
+  - Gaetan De Waele
+  - Jim Clauwaert
+  - Gerben Menschaert
+  - Willem Waegeman
+  publisher: Bioinformatics
+  date: '2021-10-28'
+  link: https://doi.org/gnck6n
+  orcid: 0000-0003-0367-9699
+  _cache: 41009b5048d47ba751f873ccc02ee98efebf9056dcdb80f047659854d003907d
+- id: doi:10.1101/2021.06.08.447547
+  title: CpG Transformer for imputation of single-cell methylomes
+  authors:
+  - Gaetan De Waele
+  - Jim Clauwaert
+  - Gerben Menschaert
+  - Willem Waegeman
+  publisher: Cold Spring Harbor Laboratory
+  date: '2021-06-09'
+  link: https://doi.org/gmt8qd
+  orcid: 0000-0003-0367-9699
+  _cache: 62ce3c9b63be37ce3aea6270f117729bbe4dc8dad38e253a121406b95589fd3d
