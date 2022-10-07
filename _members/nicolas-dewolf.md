@@ -1,6 +1,6 @@
 ---
 name: Nicolas Dewolf
-image: images/member.jpg
+image: images/Nicolas_Dewolf.png
 description:
 role: phd
 aliases:

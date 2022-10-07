@@ -1,6 +1,6 @@
 ---
 name: Dimitris Iliadis
-image: images/member.jpg
+image: images/Dimitris_Iliadis.png
 description: 
 role: phd
 aliases:

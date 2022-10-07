@@ -1,6 +1,6 @@
 ---
 name: Jelle Hustinx
-image: images/member.jpg
+image: images/Jelle_Hustinx.png
 description:
 role: phd
 aliases:

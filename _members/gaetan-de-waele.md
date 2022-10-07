@@ -1,6 +1,6 @@
 ---
 name: Gaetan De Waele
-image: images/member.jpg
+image: images/Gaetan_De_Waele.png
 description:
 role: phd
 aliases:

@@ -1,6 +1,6 @@
 ---
 name: Thomas Mortier
-image: images/member.jpg
+image: images/Thomas_Mortier.png
 description:
 role: phd
 aliases:

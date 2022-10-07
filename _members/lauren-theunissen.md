@@ -1,6 +1,6 @@
 ---
 name: Lauren Theunissen
-image: images/member.jpg
+image: images/Lauren_Theunissen.png
 description:
 role: phd
 aliases:
