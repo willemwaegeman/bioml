@@ -22,9 +22,9 @@ links:
 # automatic citations
 auto-cite:
   plugins:
-    - name: sources
+    - name: orcid
       input:
-        - ../_data/sources.yaml
+        - ../_data/orcid.yaml
   output: ../_data/citations.yaml
 
 # default front matter parameters for markdown files
