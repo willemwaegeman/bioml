@@ -4,8 +4,7 @@ image: images/Dimitris_Iliadis.png
 description: 
 role: phd
 aliases:
-  - A. Chovie
-  - A Chovie
+  - Dimitrios Iliadis
 links:
   home-page: 
   email: dimitrios.iliadis@ugent.be

@@ -4,8 +4,7 @@ image: images/Jelle_Hustinx.png
 description:
 role: phd
 aliases:
-  - F. Cited
-  - F Cited
+  - Jelle Hustinx
 links:
   orcid: 
   home-page: 

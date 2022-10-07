@@ -4,8 +4,7 @@ image: images/Thomas_Mortier.png
 description:
 role: phd
 aliases:
-  - F. Cited
-  - F Cited
+  - Thomas Mortier
 links:
   orcid: 
   home-page: 

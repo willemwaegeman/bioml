@@ -4,8 +4,7 @@ image: images/Willem_Waegeman.jpg
 description: 
 role: pi
 aliases:
-  - A. Chovie
-  - A Chovie
+  - Willem Waegeman
 links:
   orcid: 0000-0002-5950-3003
   home-page: 

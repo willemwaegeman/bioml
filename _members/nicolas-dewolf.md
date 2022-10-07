@@ -4,8 +4,7 @@ image: images/Nicolas_Dewolf.png
 description:
 role: phd
 aliases:
-  - F. Cited
-  - F Cited
+  - Nicolas Dewolf
 links:
   orcid: 
   home-page: 

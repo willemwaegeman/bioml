@@ -4,8 +4,7 @@ image: images/Gaetan_De_Waele.png
 description:
 role: phd
 aliases:
-  - F. Cited
-  - F Cited
+  - Gaetan De Waele
 links:
   home-page: 
   email: gaetan.dewaele@ugent.be

@@ -4,8 +4,7 @@ image: images/Lauren_Theunissen.png
 description:
 role: phd
 aliases:
-  - F. Cited
-  - F Cited
+  - Lauren Theunissen
 links:
   orcid: 
   home-page: 
