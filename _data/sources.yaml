@@ -1,33 +1,73 @@
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  date: 2020-6-2
-  extra-links:
-    - type: manubot
-      link: https://greenelab.github.io/knowledge-graph-review/
-  tags:
-    - knowledge graphs
-
-- id: doi:10.1371/journal.pcbi.1007128
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  repo: greenelab/meta-review
-  extra-links:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
-
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
-  extra-links:
-    - type: preprint
-      link: https://doi.org/10.7287/peerj.preprints.3100v1
-    - type: manubot
-      link: https://greenelab.github.io/scihub-manuscript/
-    - type: source
-      link: https://github.com/greenelab/scihub-manuscript
-      text: Manuscript source
-    - type: source
-      link: https://github.com/greenelab/scihub
-      text: Analyses source
+-id: db/journals/bioinformatics/bioinformatics38.html#WaeleCMW22
+-id: db/journals/ml/ml111.html#IliadisBW22
+-id: db/journals/tcbb/tcbb19.html#ClauwaertW22
+-id: db/journals/corr/corr2203.html#abs-2203-06102
+-id: db/journals/corr/corr2203.html#abs-2203-06676
+-id: db/journals/corr/corr2205.html#abs-2205-10082
+-id: db/journals/bib/bib22.html#ClauwaertMW21
+-id: db/journals/datamine/datamine35.html#MortierWDHW21
+-id: db/journals/ml/ml110.html#HullermeierW21
+-id: db/journals/corr/corr2104.html#abs-2104-09967
+-id: db/journals/corr/corr2107.html#abs-2107-00363
+-id: db/journals/bib/bib21.html#StockPAWB20
+-id: db/journals/cmpb/cmpb173.html#DeschepperEVW19
+-id: db/journals/datamine/datamine33.html#WaegemanDH19
+-id: db/conf/bnaic/bnaic2019.html#MortierWDHW19
+-id: db/conf/bnaic/bnaic2019.html#Papagiannopoulou19
+-id: db/conf/pkdd/pkdd2019-3.html#Papagiannopoulou19
+-id: db/journals/corr/corr1906.html#abs-1906-08129
+-id: db/journals/corr/corr1910.html#abs-1910-09457
+-id: db/journals/neco/neco30.html#StockPABW18
+-id: db/conf/pkdd/pkdd2018-1.html#DecubberMDW18
+-id: db/journals/corr/corr1803.html#abs-1803-01575
+-id: db/journals/corr/corr1809.html#abs-1809-02352
+-id: db/conf/multitemp/multitemp2017.html#MartensMDWV17
+-id: db/conf/multitemp/multitemp2017.html#MirallesDVDPDW17
+-id: db/conf/pkdd/pkdd2017-3.html#Papagiannopoulou17
+-id: db/journals/datamine/datamine30.html#StockDBW16
+-id: db/conf/pkdd/pkdd2016-2.html#DembczynskiKWBH16
+-id: db/journals/corr/corr1606.html#StockPABW16
+-id: db/journals/corr/corr1606.html#StockDBW16
+-id: db/journals/cea/cea111.html#ColmanWBF15
+-id: db/journals/corr/corr1506.html#PahikkalaVAW15
+-id: db/journals/ecoi/ecoi22.html#PetersWdDCLVB14
+-id: db/journals/jmlr/jmlr15.html#WaegemanDJCH14
+-id: db/journals/tcbb/tcbb11.html#StockFHGKPABW14
+-id: db/conf/pkdd/pkdd2014-2.html#PahikkalaSAABW14
+-id: db/journals/corr/corr1405.html#StockFHGKPABW14
+-id: db/journals/corr/corr1405.html#PahikkalaSAABW14
+-id: db/journals/envsoft/envsoft47.html#FukudaBWVM13
+-id: db/journals/ml/ml93.html#PahikkalaASBW13
+-id: db/conf/icml/icml2013.html#DembczynskiJKWH13
+-id: db/journals/corr/corr1310.html#WaegemanDCH13
+-id: db/journals/csda/csda56.html#VerwaerenWB12
+-id: db/journals/ml/ml88.html#DembczynskiWCH12
+-id: db/journals/tfs/tfs20.html#WaegemanPASSB12
+-id: db/conf/ecai/ecai2012.html#DembczynskiWH12
+-id: db/conf/nips/nips2012.html#ChengHWW12
+-id: db/conf/rsctc/rsctc2012.html#ChengDHJW12
+-id: db/journals/corr/corr1209.html#abs-1209-4825
+-id: db/journals/ai/ai175.html#WaegemanB11
+-id: db/journals/csda/csda55.html#AirolaPWBS11
+-id: db/journals/fss/fss184.html#WaegemanVSB11
+-id: db/conf/eurofuse/eurofuse2011.html#WaegemanPASB11
+-id: db/conf/eurofuse/eurofuse2011.html#FukudaWMB11
+-id: db/conf/gefs/gefs2011.html#FukudaNBWMMO11
+-id: db/conf/isda/isda2011.html#WaegemanB11
+-id: db/conf/nips/nips2011.html#DembczynskiWCH11
+-id: db/journals/corr/corr1111.html#abs-1111-6473
+-id: db/journals/bmcbi/bmcbi11.html#SlabbinckWDVB10
+-id: db/journals/eor/eor206.html#PahikkalaWTSB10
+-id: db/journals/isci/isci180.html#WaegemanB10
+-id: db/conf/esann/esann2010.html#DevlaminckWBWOBS10
+-id: db/conf/nabic/nabic2010.html#FukudaOBWMNM10
+-id: db/conf/pkdd/pkdd2010-1.html#DembczynskiWCH10
+-id: db/conf/pkdd/pkdd2010-2.html#PahikkalaWASB10
+-id: db/journals/jmlr/jmlrp8.html#AirolaPWBS10
+-id: db/books/collections/FH2010.html#WaegemanB10
+-id: db/journals/4or/4or7.html#WaegemanBB09
+-id: db/journals/4or/4or7.html#Waegeman09
+-id: db/journals/csda/csda52.html#WaegemanBB08
+-id: db/journals/eaai/eaai21.html#WaegemanCWBBLD08
+-id: db/journals/nn/nn21.html#WaegemanBB08
+-id: db/journals/prl/prl29.html#WaegemanBB08
