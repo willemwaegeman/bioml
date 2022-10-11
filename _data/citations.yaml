@@ -1,0 +1,351 @@
+# DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
+# See https://github.com/greenelab/lab-website-template/wiki/Citations
+
+- id: doi:10.1007/s10994-021-06104-5
+  title: Multi-target prediction for dummies using two-branch neural networks
+  authors:
+  - Dimitrios Iliadis
+  - Bernard De Baets
+  - Willem Waegeman
+  publisher: Machine Learning
+  date: '2022-01-06'
+  link: https://doi.org/gqx4f5
+  orcid: 0000-0002-3676-5940
+  page: dimitris-iliadis
+  _cache: a8a0d610832096bed9e0cda453b730af38a5e91552c0410e2be738e10f2ba60e
+- id: doi:10.1007/s10462-022-10178-5
+  title: Valid prediction intervals for regression problems
+  authors:
+  - Nicolas Dewolf
+  - Bernard De Baets
+  - Willem Waegeman
+  publisher: Artificial Intelligence Review
+  date: '2022-04-18'
+  link: https://doi.org/gqx4f6
+  orcid: 0000-0002-3930-1420
+  page: nicolas-dewolf
+  _cache: 5d2017bf743ee35018eab4811f025d7e95b3af83ea76e3e0ddbd9a6947e008c9
+- id: doi:10.1016/j.csbj.2021.11.004
+  title: 'Bacterial species identification using MALDI-TOF mass spectrometry and machine
+    learning techniques: A large-scale benchmarking study'
+  authors:
+  - Thomas Mortier
+  - Anneleen D. Wieme
+  - Peter Vandamme
+  - Willem Waegeman
+  publisher: Computational and Structural Biotechnology Journal
+  date: '2021-01-01'
+  link: https://doi.org/gqx4f7
+  orcid: 0000-0001-9650-9263
+  page: thomas-mortier
+  _cache: a3bbe1a6d6a956296d3944cd75570b41b373aad7bcc060902cfd1d567ae3f53c
+- id: doi:10.1007/s00226-021-01302-9
+  title: 'Correction to: A protocol for automated timber species identification using
+    metabolome profiling'
+  authors:
+  - V. Deklerck
+  - T. Mortier
+  - N. Goeders
+  - R. B. Cody
+  - W. Waegeman
+  - E. Espinoza
+  - J. Van Acker
+  - J. Van den Bulcke
+  - H. Beeckman
+  publisher: Wood Science and Technology
+  date: '2021-07-19'
+  link: https://doi.org/gqx4f8
+  orcid: 0000-0001-9650-9263
+  page: thomas-mortier
+  _cache: 4ed72fe31d1f70ca1dd34859289dc036f662c26893cc3c8b8b5823023fe6f86c
+- id: doi:10.1007/s10618-021-00751-x
+  title: Efficient set-valued prediction in multi-class classification
+  authors:
+  - Thomas Mortier
+  - Marek Wydmuch
+  - "Krzysztof Dembczy\u0144ski"
+  - "Eyke H\xFCllermeier"
+  - Willem Waegeman
+  publisher: Data Mining and Knowledge Discovery
+  date: '2021-05-06'
+  link: https://doi.org/gjwj74
+  orcid: 0000-0001-9650-9263
+  page: thomas-mortier
+  _cache: dd8db96b7d0e16f34cde64a1256b180a9fe67a6995195ac2c6ca8c6216306f0f
+- id: doi:10.1007/s00226-019-01111-1
+  title: A protocol for automated timber species identification using metabolome profiling
+  authors:
+  - V. Deklerck
+  - T. Mortier
+  - N. Goeders
+  - R. B. Cody
+  - W. Waegeman
+  - E. Espinoza
+  - J. Van Acker
+  - J. Van den Bulcke
+  - H. Beeckman
+  publisher: Wood Science and Technology
+  date: '2019-06-20'
+  link: https://doi.org/gqx4f9
+  orcid: 0000-0001-9650-9263
+  page: thomas-mortier
+  _cache: 3d3cb5caac0c4869629fb719435292a0df206cebea7042b24a6e96a2b53e8034
+- id: doi:10.1007/978-3-030-10925-7_18
+  title: 'Deep F-Measure Maximization in Multi-label Classification: A Comparative
+    Study'
+  authors:
+  - Stijn Decubber
+  - Thomas Mortier
+  - "Krzysztof Dembczy\u0144ski"
+  - Willem Waegeman
+  publisher: Machine Learning and Knowledge Discovery in Databases
+  date: '2019-01-01'
+  link: https://doi.org/gqx4gb
+  orcid: 0000-0001-9650-9263
+  page: thomas-mortier
+  _cache: 5ad0456fc68e7b27a04034b3f57fb2e646085191e51de7507965da61431d5451
+- id: doi:10.1093/bioinformatics/btab746
+  title: CpG Transformer for imputation of single-cell methylomes
+  authors:
+  - Gaetan De Waele
+  - Jim Clauwaert
+  - Gerben Menschaert
+  - Willem Waegeman
+  publisher: Bioinformatics
+  date: '2021-10-28'
+  link: https://doi.org/gnck6n
+  orcid: 0000-0003-0367-9699
+  page: gaetan-de-waele
+  _cache: 0a6411fcb1259b9ef4500ccc0f05b0ee03b94fee174df1d189d178c8dc069c61
+- id: doi:10.1101/2021.06.08.447547
+  title: CpG Transformer for imputation of single-cell methylomes
+  authors:
+  - Gaetan De Waele
+  - Jim Clauwaert
+  - Gerben Menschaert
+  - Willem Waegeman
+  publisher: Cold Spring Harbor Laboratory
+  date: '2021-06-09'
+  link: https://doi.org/gmt8qd
+  orcid: 0000-0003-0367-9699
+  page: gaetan-de-waele
+  _cache: 9e2744fe13d192a87486bd00b28103f064666765fcee70c01a180bc4f6906d70
+- url: db/journals/bioinformatics/bioinformatics38.html#WaeleCMW22
+  _cache: 1cd5f0977985d8ba1e35c15cac4c1f2ec38d1d267c157017f754de01bf346f75
+  date: ''
+- url: db/journals/ml/ml111.html#IliadisBW22
+  _cache: 7a05a656a5b30b9189a6b8a493f9a62b9fc5d294a578674c6f919861d5395a2b
+  date: ''
+- url: db/journals/tcbb/tcbb19.html#ClauwaertW22
+  _cache: 8d5fb5d68d0070dc5714d09e35dd969d70dc3e7d0d3f56a01d40ccbacbd6b36d
+  date: ''
+- url: db/journals/corr/corr2203.html#abs-2203-06102
+  _cache: cdd34abf9e43250383879b1b199a899058d7e4e315b40a3591889fbf4946d323
+  date: ''
+- url: db/journals/corr/corr2203.html#abs-2203-06676
+  _cache: c18731ce0fcde29468e40fefb4cd5d5df23f8167ab08b05eb4f5ac7ad53d4e7f
+  date: ''
+- url: db/journals/corr/corr2205.html#abs-2205-10082
+  _cache: 64f276f51a0590af177148f94e8a457eea3c364c14a8ad64d50e11c77fd89fda
+  date: ''
+- url: db/journals/bib/bib22.html#ClauwaertMW21
+  _cache: 3f649da8c26c20e809efb47ddca65d262e77465d537369021860b7a06858abf5
+  date: ''
+- url: db/journals/datamine/datamine35.html#MortierWDHW21
+  _cache: d6df7610330177a3a083db82f94878788a0dedfee213d578371c9e86ea99ae95
+  date: ''
+- url: db/journals/ml/ml110.html#HullermeierW21
+  _cache: 9153fbf5e24a90feb749f9cadbfc0a061f8aba60c20e922bf9f995aaabec5b1f
+  date: ''
+- url: db/journals/corr/corr2104.html#abs-2104-09967
+  _cache: 4a9095eece8363a72ecba6067b634573682261c57cad9515b38b7b61026acaeb
+  date: ''
+- url: db/journals/corr/corr2107.html#abs-2107-00363
+  _cache: 22d104f724708f5d488c7c1c45a4e57cd2151fdd009ceab10937a13187f02ee0
+  date: ''
+- url: db/journals/bib/bib21.html#StockPAWB20
+  _cache: 252f81f41bf91e311e7e13820c8e46c23bd612f453da6911322d47eeb761c92a
+  date: ''
+- url: db/journals/cmpb/cmpb173.html#DeschepperEVW19
+  _cache: 1beb12ff5ab528ad32e2e6375b44344282a11008f992e0081a9051eeea90459b
+  date: ''
+- url: db/journals/datamine/datamine33.html#WaegemanDH19
+  _cache: daaab05b27d5774a0b9ebb5051f22ad2d5f1335c400e78db05497d162e7f62ae
+  date: ''
+- url: db/conf/bnaic/bnaic2019.html#MortierWDHW19
+  _cache: 641ab0f2abe84af6c355629f2328e3c3e1b62a565b6bae210fabd419d9dab047
+  date: ''
+- url: db/conf/bnaic/bnaic2019.html#Papagiannopoulou19
+  _cache: 7de5bf541a99b0e06b20d1c525eb8c2cfbbff907007a67d2bc7e04babeb6c44e
+  date: ''
+- url: db/conf/pkdd/pkdd2019-3.html#Papagiannopoulou19
+  _cache: a7941407cb8fe3a6e498dfd6af4e39f2e6e4916c134eac43d2931f93f8fa4fdf
+  date: ''
+- url: db/journals/corr/corr1906.html#abs-1906-08129
+  _cache: 9fecee320465908b20d13c06e1ba07a271975d72b65f6f056d5846e7b35fa5ab
+  date: ''
+- url: db/journals/corr/corr1910.html#abs-1910-09457
+  _cache: 4f69e1e3bff5809f1d7647c6efc1482765a2f22dffd7ca8363ed24b42adee421
+  date: ''
+- url: db/journals/neco/neco30.html#StockPABW18
+  _cache: f4b5587b828120a23176895de7f98d540351de291a88166a83a9b66a884cdaf3
+  date: ''
+- url: db/conf/pkdd/pkdd2018-1.html#DecubberMDW18
+  _cache: 5dc822650da9895b10b7482fba556e5c39f6dec5a77eeb6912d58ce90a2fd36a
+  date: ''
+- url: db/journals/corr/corr1803.html#abs-1803-01575
+  _cache: 70e709dcf8cd273b32cb2cf5e1949246e8c62eaaa2b34034848150de8c7f50c0
+  date: ''
+- url: db/journals/corr/corr1809.html#abs-1809-02352
+  _cache: 244a1eb3de351d1cd73814e387cee8a898d8704a89656116743b6586ad0522ca
+  date: ''
+- url: db/conf/multitemp/multitemp2017.html#MartensMDWV17
+  _cache: 1f5b9cb45740b5e5b92c29d81d69d8d7045ee55b7a13aaa6e561042d3eee9c49
+  date: ''
+- url: db/conf/multitemp/multitemp2017.html#MirallesDVDPDW17
+  _cache: 2dcb93596547d86ef1d9d1eded68cb65c7f119980a3c150e4be246ccacedb49a
+  date: ''
+- url: db/conf/pkdd/pkdd2017-3.html#Papagiannopoulou17
+  _cache: b79406f1daf3066a4a9233e221d652146c1b5c7a9ee1ba95d073e008b95eec40
+  date: ''
+- url: db/journals/datamine/datamine30.html#StockDBW16
+  _cache: c690dff3548d838a8b182813213bd816779df87e321d29bb33e678d700580bbf
+  date: ''
+- url: db/conf/pkdd/pkdd2016-2.html#DembczynskiKWBH16
+  _cache: 93cf58930e8c79dde74262cc11e26e92c2794e550e7fa69d954d89f0ee0a12a9
+  date: ''
+- url: db/journals/corr/corr1606.html#StockPABW16
+  _cache: fdeb8a3b5f916c5975e69663afcbf81d02cfe54f3158a47c9a6357ad58270ae4
+  date: ''
+- url: db/journals/corr/corr1606.html#StockDBW16
+  _cache: 2debe17d134065acbf7bcdc113c3e3d892704ffedf80f7a260cbaced7bd25e13
+  date: ''
+- url: db/journals/cea/cea111.html#ColmanWBF15
+  _cache: d6bde81c46eb1d3200393085082fc3f235e50317dbe86869c893601047a3e195
+  date: ''
+- url: db/journals/corr/corr1506.html#PahikkalaVAW15
+  _cache: b103e9e1d538b4970e57d8c9bef5adb14398b0303361d1aeaed208a0421250d2
+  date: ''
+- url: db/journals/ecoi/ecoi22.html#PetersWdDCLVB14
+  _cache: 3132755a66c73961b58d1e0734fd7be014aee668bd86e9a8077a23785984131d
+  date: ''
+- url: db/journals/jmlr/jmlr15.html#WaegemanDJCH14
+  _cache: 365ff76ab13357e5b86e2fd7234e389fa83eaf3e5f51b3a2d1cdfe038c53ce01
+  date: ''
+- url: db/journals/tcbb/tcbb11.html#StockFHGKPABW14
+  _cache: 75666078cb965414c2bd4cb85ebeec062a4f7efdc640c87bdf2c9801556c60c1
+  date: ''
+- url: db/conf/pkdd/pkdd2014-2.html#PahikkalaSAABW14
+  _cache: f59c36ea818a1834a83719c03ffb008734397cfc689e3b8a731b920e7e5bcfb1
+  date: ''
+- url: db/journals/corr/corr1405.html#StockFHGKPABW14
+  _cache: 2982392fa31b382332064754d42174220faf0162ea45e529ae613482997f71e0
+  date: ''
+- url: db/journals/corr/corr1405.html#PahikkalaSAABW14
+  _cache: 071369d30920aea0a967ca246fb9bba6681a0d7d523e5b89eed7f423ce9721c6
+  date: ''
+- url: db/journals/envsoft/envsoft47.html#FukudaBWVM13
+  _cache: b965733d988b4a4f0a1a067ebd8673e4e4c8b20a619ae2a8cee6ee514e47fbc4
+  date: ''
+- url: db/journals/ml/ml93.html#PahikkalaASBW13
+  _cache: f1eed1f9b221356cca8aabdcc7d72f73ea8d63780b3ea297a23082971be192c1
+  date: ''
+- url: db/conf/icml/icml2013.html#DembczynskiJKWH13
+  _cache: 949a53fcd73be675cdb4b9d7e0a4ef4e5f8e7c1e854b4d5c3ddcdc80b6138493
+  date: ''
+- url: db/journals/corr/corr1310.html#WaegemanDCH13
+  _cache: 814673f8e9e2302df86f702009ddda8356df9a73bd761aa29d3394ffb98ee7f0
+  date: ''
+- url: db/journals/csda/csda56.html#VerwaerenWB12
+  _cache: 4af931e137e8f5ddca7860514a9be1bd16750d20e675189f06456d532faa6717
+  date: ''
+- url: db/journals/ml/ml88.html#DembczynskiWCH12
+  _cache: fa8fe2be09d1f29a99a2f3f2cfb1ac29361edf016f428f5b0c8922ae4349be0f
+  date: ''
+- url: db/journals/tfs/tfs20.html#WaegemanPASSB12
+  _cache: 9bf8d2122872432601d2148b84ffa0ccba077fa6418a718fe9771209d32af4bf
+  date: ''
+- url: db/conf/ecai/ecai2012.html#DembczynskiWH12
+  _cache: b637a43e5b5d929dfede82470d5c2df8eea67a212889131aaf8e4fba7431f71e
+  date: ''
+- url: db/conf/nips/nips2012.html#ChengHWW12
+  _cache: a140570659d2317b2d911b326d4a94cd46c3f1d8186668c6bd295325d8dc6e34
+  date: ''
+- url: db/conf/rsctc/rsctc2012.html#ChengDHJW12
+  _cache: 16a937b30233f5626c501bdf6e7cd6540b046655ed78b6367abd937053725f35
+  date: ''
+- url: db/journals/corr/corr1209.html#abs-1209-4825
+  _cache: 55a3bc279ec4eee030be3d9b8cbb2862e05184375b91dbe64e1056025917d25d
+  date: ''
+- url: db/journals/ai/ai175.html#WaegemanB11
+  _cache: 3975fc42e97056a835e414b91d77e0efd7fcf5bf4a167767b73b5a396189c9d6
+  date: ''
+- url: db/journals/csda/csda55.html#AirolaPWBS11
+  _cache: 3bc788575397bb39c99ddd78511003447a0d1870e54436e5dbd92fa68bd64d39
+  date: ''
+- url: db/journals/fss/fss184.html#WaegemanVSB11
+  _cache: 994779b25cebc937415b516a620eafe15fef5fc8b32eeea09858f28596ed22e9
+  date: ''
+- url: db/conf/eurofuse/eurofuse2011.html#WaegemanPASB11
+  _cache: 246fb7fce6d717380cb2bbb58124816520be2da0d3af1f41c0a8a402d20ef906
+  date: ''
+- url: db/conf/eurofuse/eurofuse2011.html#FukudaWMB11
+  _cache: e7a93e1042cf4033cead6e45b4fee1d12b4ca107570debd56ebd4f9c6919f071
+  date: ''
+- url: db/conf/gefs/gefs2011.html#FukudaNBWMMO11
+  _cache: 473e5cbc2ac03a1717af57ef78b8c105b81a2a5a4f1b74fc5c91c82a5c2ca226
+  date: ''
+- url: db/conf/isda/isda2011.html#WaegemanB11
+  _cache: d5ec8596f7ed5a3d207fd992d44e6d8b8ee9975a907e034d5a887ef3e45e2dcf
+  date: ''
+- url: db/conf/nips/nips2011.html#DembczynskiWCH11
+  _cache: 97d01f1cab370e8eb800a394cad41a0ddaad4018f84a3a5bb41782ca3f183cf1
+  date: ''
+- url: db/journals/corr/corr1111.html#abs-1111-6473
+  _cache: 62b0133ad24ef4a4c386c0c5a2a4368d6e99118b8f0cf72d1099b01bb42c2219
+  date: ''
+- url: db/journals/bmcbi/bmcbi11.html#SlabbinckWDVB10
+  _cache: ed7f7db4ce58683e983ebf7a0181e55d95ee3dd6549409bb42c6f31db4e28c5c
+  date: ''
+- url: db/journals/eor/eor206.html#PahikkalaWTSB10
+  _cache: b75f509d6e83ee4ced4aadb6cd178ea4857ead5c9430e078be553984dde2a307
+  date: ''
+- url: db/journals/isci/isci180.html#WaegemanB10
+  _cache: e6742961a167b4c40c85b019260d7eac80c7ff2ed5bb698a88dacaf45e4212ba
+  date: ''
+- url: db/conf/esann/esann2010.html#DevlaminckWBWOBS10
+  _cache: f810f0520726b2d9e56b1ce9f2c98f86f5a1451f2343e277853cf30f088aac4f
+  date: ''
+- url: db/conf/nabic/nabic2010.html#FukudaOBWMNM10
+  _cache: 3716b92dace7c00b4aafc2cc4cc4937325512e6482ee8a72932bfd224e6e465d
+  date: ''
+- url: db/conf/pkdd/pkdd2010-1.html#DembczynskiWCH10
+  _cache: cfac26582e2f908e809a7cce2ce77c0bd81ef6dd6768f93b685b465a979510bd
+  date: ''
+- url: db/conf/pkdd/pkdd2010-2.html#PahikkalaWASB10
+  _cache: 28068e17de14829d17ce2c2a539591023d5e256466884a4369e62471a6795a65
+  date: ''
+- url: db/journals/jmlr/jmlrp8.html#AirolaPWBS10
+  _cache: a4daeaac4858838cc265cf8693e5b591768df1d9f611f66e874ab9d2526d0458
+  date: ''
+- url: db/books/collections/FH2010.html#WaegemanB10
+  _cache: 8795df447c2b0aaf0bc39b90647bd0f9136942405ac891947f5821417859427c
+  date: ''
+- url: db/journals/4or/4or7.html#WaegemanBB09
+  _cache: 83303c069895b78f04fcadea7f75b8e5f663e239f0a26a987d57f55935060dbe
+  date: ''
+- url: db/journals/4or/4or7.html#Waegeman09
+  _cache: 06e545fc1d1399521e51038526b11b4841eca001609adc74541c4b9653468349
+  date: ''
+- url: db/journals/csda/csda52.html#WaegemanBB08
+  _cache: 2451b4194dbae0ecba4a9af9fade8312bf9a23828c13e6fba6fa07b94caa7b8f
+  date: ''
+- url: db/journals/eaai/eaai21.html#WaegemanCWBBLD08
+  _cache: 4940baa375ddd05f5167a3745f85c41bce15c954a571c1eb9d62c58ac326bd66
+  date: ''
+- url: db/journals/nn/nn21.html#WaegemanBB08
+  _cache: 8cc448392de41749272bafd82cc3cd0117c4575ab5b071cd4928169546b199e8
+  date: ''
+- url: db/journals/prl/prl29.html#WaegemanBB08
+  _cache: 8c15c7500263863d43f00fff15dda04dc8fe3f2776253bab56df6034ff167c25
+  date: ''
