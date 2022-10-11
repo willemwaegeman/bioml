@@ -1,145 +1,145 @@
--url: db/journals/bioinformatics/bioinformatics38.html#WaeleCMW22
+-url: https://doi.org/10.1093/bioinformatics/btab746
 
--url: db/journals/ml/ml111.html#IliadisBW22
+-url: https://doi.org/10.1007/s10994-021-06104-5
 
--url: db/journals/tcbb/tcbb19.html#ClauwaertW22
+-url: https://doi.org/10.1109/TCBB.2020.3035021
 
--url: db/journals/corr/corr2203.html#abs-2203-06102
+-url: https://doi.org/10.48550/arXiv.2203.06102
 
--url: db/journals/corr/corr2203.html#abs-2203-06676
+-url: https://doi.org/10.48550/arXiv.2203.06676
 
--url: db/journals/corr/corr2205.html#abs-2205-10082
+-url: https://doi.org/10.48550/arXiv.2205.10082
 
--url: db/journals/bib/bib22.html#ClauwaertMW21
+-url: https://doi.org/10.1093/bib/bbab060
 
--url: db/journals/datamine/datamine35.html#MortierWDHW21
+-url: https://doi.org/10.1007/s10618-021-00751-x
 
--url: db/journals/ml/ml110.html#HullermeierW21
+-url: https://doi.org/10.1007/s10994-021-05946-3
 
--url: db/journals/corr/corr2104.html#abs-2104-09967
+-url: https://arxiv.org/abs/2104.09967
 
--url: db/journals/corr/corr2107.html#abs-2107-00363
+-url: https://arxiv.org/abs/2107.00363
 
--url: db/journals/bib/bib21.html#StockPAWB20
+-url: https://doi.org/10.1093/bib/bby095
 
--url: db/journals/cmpb/cmpb173.html#DeschepperEVW19
+-url: https://doi.org/10.1016/j.cmpb.2019.02.007
 
--url: db/journals/datamine/datamine33.html#WaegemanDH19
+-url: https://doi.org/10.1007/s10618-018-0595-5
 
--url: db/conf/bnaic/bnaic2019.html#MortierWDHW19
+-url: http://ceur-ws.org/Vol-2491/abstract50.pdf
 
--url: db/conf/bnaic/bnaic2019.html#Papagiannopoulou19
+-url: http://ceur-ws.org/Vol-2491/abstract26.pdf
 
--url: db/conf/pkdd/pkdd2019-3.html#Papagiannopoulou19
+-url: https://doi.org/10.1007/978-3-030-46133-1_25
 
--url: db/journals/corr/corr1906.html#abs-1906-08129
+-url: http://arxiv.org/abs/1906.08129
 
--url: db/journals/corr/corr1910.html#abs-1910-09457
+-url: http://arxiv.org/abs/1910.09457
 
--url: db/journals/neco/neco30.html#StockPABW18
+-url: https://doi.org/10.1162/neco_a_01096
 
--url: db/conf/pkdd/pkdd2018-1.html#DecubberMDW18
+-url: https://doi.org/10.1007/978-3-030-10925-7_18
 
--url: db/journals/corr/corr1803.html#abs-1803-01575
+-url: http://arxiv.org/abs/1803.01575
 
--url: db/journals/corr/corr1809.html#abs-1809-02352
+-url: http://arxiv.org/abs/1809.02352
 
--url: db/conf/multitemp/multitemp2017.html#MartensMDWV17
+-url: https://doi.org/10.1109/Multi-Temp.2017.8035200
 
--url: db/conf/multitemp/multitemp2017.html#MirallesDVDPDW17
+-url: https://doi.org/10.1109/Multi-Temp.2017.8035198
 
--url: db/conf/pkdd/pkdd2017-3.html#Papagiannopoulou17
+-url: https://doi.org/10.1007/978-3-319-71273-4_2
 
--url: db/journals/datamine/datamine30.html#StockDBW16
+-url: https://doi.org/10.1007/s10618-016-0456-z
 
--url: db/conf/pkdd/pkdd2016-2.html#DembczynskiKWBH16
+-url: https://doi.org/10.1007/978-3-319-46227-1_32
 
--url: db/journals/corr/corr1606.html#StockPABW16
+-url: http://arxiv.org/abs/1606.04275
 
--url: db/journals/corr/corr1606.html#StockDBW16
+-url: http://arxiv.org/abs/1606.04278
 
--url: db/journals/cea/cea111.html#ColmanWBF15
+-url: https://doi.org/10.1016/j.compag.2015.01.002
 
--url: db/journals/corr/corr1506.html#PahikkalaVAW15
+-url: http://arxiv.org/abs/1506.05950
 
--url: db/journals/ecoi/ecoi22.html#PetersWdDCLVB14
+-url: https://doi.org/10.1016/j.ecoinf.2014.05.006
 
--url: db/journals/jmlr/jmlr15.html#WaegemanDJCH14
+-url: https://dl.acm.org/doi/10.5555/2627435.2750352
 
--url: db/journals/tcbb/tcbb11.html#StockFHGKPABW14
+-url: https://doi.org/10.1109/TCBB.2014.2338308
 
--url: db/conf/pkdd/pkdd2014-2.html#PahikkalaSAABW14
+-url: https://doi.org/10.1007/978-3-662-44851-9_33
 
--url: db/journals/corr/corr1405.html#StockFHGKPABW14
+-url: http://arxiv.org/abs/1405.4394
 
--url: db/journals/corr/corr1405.html#PahikkalaSAABW14
+-url: http://arxiv.org/abs/1405.4423
 
--url: db/journals/envsoft/envsoft47.html#FukudaBWVM13
+-url: https://doi.org/10.1016/j.envsoft.2013.04.005
 
--url: db/journals/ml/ml93.html#PahikkalaASBW13
+-url: https://doi.org/10.1007/s10994-013-5354-7
 
--url: db/conf/icml/icml2013.html#DembczynskiJKWH13
+-url: http://proceedings.mlr.press/v28/dembczynski13.html
 
--url: db/journals/corr/corr1310.html#WaegemanDCH13
+-url: http://arxiv.org/abs/1310.4849
 
--url: db/journals/csda/csda56.html#VerwaerenWB12
+-url: https://doi.org/10.1016/j.csda.2010.12.007
 
--url: db/journals/ml/ml88.html#DembczynskiWCH12
+-url: https://doi.org/10.1007/s10994-012-5285-8
 
--url: db/journals/tfs/tfs20.html#WaegemanPASSB12
+-url: https://doi.org/10.1109/TFUZZ.2012.2194151
 
--url: db/conf/ecai/ecai2012.html#DembczynskiWH12
+-url: https://doi.org/10.3233/978-1-61499-098-7-294
 
--url: db/conf/nips/nips2012.html#ChengHWW12
+-url: https://proceedings.neurips.cc/paper/2012/hash/fe2d010308a6b3799a3d9c728ee74244-Abstract.html
 
--url: db/conf/rsctc/rsctc2012.html#ChengDHJW12
+-url: https://doi.org/10.1007/978-3-642-32115-3_52
 
--url: db/journals/corr/corr1209.html#abs-1209-4825
+-url: http://arxiv.org/abs/1209.4825
 
--url: db/journals/ai/ai175.html#WaegemanB11
+-url: https://doi.org/10.1016/j.artint.2010.11.006
 
--url: db/journals/csda/csda55.html#AirolaPWBS11
+-url: https://doi.org/10.1016/j.csda.2010.11.018
 
--url: db/journals/fss/fss184.html#WaegemanVSB11
+-url: https://doi.org/10.1016/j.fss.2010.11.012
 
--url: db/conf/eurofuse/eurofuse2011.html#WaegemanPASB11
+-url: https://doi.org/10.1007/978-3-642-24001-0_24
 
--url: db/conf/eurofuse/eurofuse2011.html#FukudaWMB11
+-url: https://doi.org/10.1007/978-3-642-24001-0_34
 
--url: db/conf/gefs/gefs2011.html#FukudaNBWMMO11
+-url: https://doi.org/10.1109/GEFS.2011.5949490
 
--url: db/conf/isda/isda2011.html#WaegemanB11
+-url: https://doi.org/10.1109/ISDA.2011.6121820
 
--url: db/conf/nips/nips2011.html#DembczynskiWCH11
+-url: https://proceedings.neurips.cc/paper/2011/hash/71ad16ad2c4d81f348082ff6c4b20768-Abstract.html
 
--url: db/journals/corr/corr1111.html#abs-1111-6473
+-url: http://arxiv.org/abs/1111.6473
 
--url: db/journals/bmcbi/bmcbi11.html#SlabbinckWDVB10
+-url: https://doi.org/10.1186/1471-2105-11-69
 
--url: db/journals/eor/eor206.html#PahikkalaWTSB10
+-url: https://doi.org/10.1016/j.ejor.2010.03.018
 
--url: db/journals/isci/isci180.html#WaegemanB10
+-url: https://doi.org/10.1016/j.ins.2010.06.036
 
--url: db/conf/esann/esann2010.html#DevlaminckWBWOBS10
+-url: https://www.esann.org/sites/default/files/proceedings/legacy/es2010-82.pdf
 
--url: db/conf/nabic/nabic2010.html#FukudaOBWMNM10
+-url: https://doi.org/10.1109/NABIC.2010.5716268
 
--url: db/conf/pkdd/pkdd2010-1.html#DembczynskiWCH10
+-url: https://doi.org/10.1007/978-3-642-15880-3_24
 
--url: db/conf/pkdd/pkdd2010-2.html#PahikkalaWASB10
+-url: https://doi.org/10.1007/978-3-642-15883-4_32
 
--url: db/journals/jmlr/jmlrp8.html#AirolaPWBS10
+-url: http://proceedings.mlr.press/v8/airola10a.html
 
--url: db/books/collections/FH2010.html#WaegemanB10
+-url: https://doi.org/10.1007/978-3-642-14125-6_7
 
--url: db/journals/4or/4or7.html#WaegemanBB09
+-url: https://doi.org/10.1007/s10288-008-0085-5
 
--url: db/journals/4or/4or7.html#Waegeman09
+-url: https://doi.org/10.1007/s10288-009-0095-y
 
--url: db/journals/csda/csda52.html#WaegemanBB08
+-url: https://doi.org/10.1016/j.csda.2007.12.001
 
--url: db/journals/eaai/eaai21.html#WaegemanCWBBLD08
+-url: https://doi.org/10.1016/j.engappai.2007.07.010
 
--url: db/journals/nn/nn21.html#WaegemanBB08
+-url: https://doi.org/10.1016/j.neunet.2008.07.008
 
--url: db/journals/prl/prl29.html#WaegemanBB08
+-url: https://doi.org/10.1016/j.patrec.2007.07.019
