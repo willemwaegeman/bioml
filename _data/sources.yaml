@@ -1,145 +1,73 @@
--url: https://doi.org/10.1093/bioinformatics/btab746
-
--url: https://doi.org/10.1007/s10994-021-06104-5
-
--url: https://doi.org/10.1109/TCBB.2020.3035021
-
--url: https://doi.org/10.48550/arXiv.2203.06102
-
--url: https://doi.org/10.48550/arXiv.2203.06676
-
--url: https://doi.org/10.48550/arXiv.2205.10082
-
--url: https://doi.org/10.1093/bib/bbab060
-
--url: https://doi.org/10.1007/s10618-021-00751-x
-
--url: https://doi.org/10.1007/s10994-021-05946-3
-
--url: https://arxiv.org/abs/2104.09967
-
--url: https://arxiv.org/abs/2107.00363
-
--url: https://doi.org/10.1093/bib/bby095
-
--url: https://doi.org/10.1016/j.cmpb.2019.02.007
-
--url: https://doi.org/10.1007/s10618-018-0595-5
-
--url: http://ceur-ws.org/Vol-2491/abstract50.pdf
-
--url: http://ceur-ws.org/Vol-2491/abstract26.pdf
-
--url: https://doi.org/10.1007/978-3-030-46133-1_25
-
--url: http://arxiv.org/abs/1906.08129
-
--url: http://arxiv.org/abs/1910.09457
-
--url: https://doi.org/10.1162/neco_a_01096
-
--url: https://doi.org/10.1007/978-3-030-10925-7_18
-
--url: http://arxiv.org/abs/1803.01575
-
--url: http://arxiv.org/abs/1809.02352
-
--url: https://doi.org/10.1109/Multi-Temp.2017.8035200
-
--url: https://doi.org/10.1109/Multi-Temp.2017.8035198
-
--url: https://doi.org/10.1007/978-3-319-71273-4_2
-
--url: https://doi.org/10.1007/s10618-016-0456-z
-
--url: https://doi.org/10.1007/978-3-319-46227-1_32
-
--url: http://arxiv.org/abs/1606.04275
-
--url: http://arxiv.org/abs/1606.04278
-
--url: https://doi.org/10.1016/j.compag.2015.01.002
-
--url: http://arxiv.org/abs/1506.05950
-
--url: https://doi.org/10.1016/j.ecoinf.2014.05.006
-
--url: https://dl.acm.org/doi/10.5555/2627435.2750352
-
--url: https://doi.org/10.1109/TCBB.2014.2338308
-
--url: https://doi.org/10.1007/978-3-662-44851-9_33
-
--url: http://arxiv.org/abs/1405.4394
-
--url: http://arxiv.org/abs/1405.4423
-
--url: https://doi.org/10.1016/j.envsoft.2013.04.005
-
--url: https://doi.org/10.1007/s10994-013-5354-7
-
--url: http://proceedings.mlr.press/v28/dembczynski13.html
-
--url: http://arxiv.org/abs/1310.4849
-
--url: https://doi.org/10.1016/j.csda.2010.12.007
-
--url: https://doi.org/10.1007/s10994-012-5285-8
-
--url: https://doi.org/10.1109/TFUZZ.2012.2194151
-
--url: https://doi.org/10.3233/978-1-61499-098-7-294
-
--url: https://proceedings.neurips.cc/paper/2012/hash/fe2d010308a6b3799a3d9c728ee74244-Abstract.html
-
--url: https://doi.org/10.1007/978-3-642-32115-3_52
-
--url: http://arxiv.org/abs/1209.4825
-
--url: https://doi.org/10.1016/j.artint.2010.11.006
-
--url: https://doi.org/10.1016/j.csda.2010.11.018
-
--url: https://doi.org/10.1016/j.fss.2010.11.012
-
--url: https://doi.org/10.1007/978-3-642-24001-0_24
-
--url: https://doi.org/10.1007/978-3-642-24001-0_34
-
--url: https://doi.org/10.1109/GEFS.2011.5949490
-
--url: https://doi.org/10.1109/ISDA.2011.6121820
-
--url: https://proceedings.neurips.cc/paper/2011/hash/71ad16ad2c4d81f348082ff6c4b20768-Abstract.html
-
--url: http://arxiv.org/abs/1111.6473
-
--url: https://doi.org/10.1186/1471-2105-11-69
-
--url: https://doi.org/10.1016/j.ejor.2010.03.018
-
--url: https://doi.org/10.1016/j.ins.2010.06.036
-
--url: https://www.esann.org/sites/default/files/proceedings/legacy/es2010-82.pdf
-
--url: https://doi.org/10.1109/NABIC.2010.5716268
-
--url: https://doi.org/10.1007/978-3-642-15880-3_24
-
--url: https://doi.org/10.1007/978-3-642-15883-4_32
-
--url: http://proceedings.mlr.press/v8/airola10a.html
-
--url: https://doi.org/10.1007/978-3-642-14125-6_7
-
--url: https://doi.org/10.1007/s10288-008-0085-5
-
--url: https://doi.org/10.1007/s10288-009-0095-y
-
--url: https://doi.org/10.1016/j.csda.2007.12.001
-
--url: https://doi.org/10.1016/j.engappai.2007.07.010
-
--url: https://doi.org/10.1016/j.neunet.2008.07.008
-
--url: https://doi.org/10.1016/j.patrec.2007.07.019
+- url: https://doi.org/10.1093/bioinformatics/btab746
+- url: https://doi.org/10.1007/s10994-021-06104-5
+- url: https://doi.org/10.1109/TCBB.2020.3035021
+- url: https://doi.org/10.48550/arXiv.2203.06102
+- url: https://doi.org/10.48550/arXiv.2203.06676
+- url: https://doi.org/10.48550/arXiv.2205.10082
+- url: https://doi.org/10.1093/bib/bbab060
+- url: https://doi.org/10.1007/s10618-021-00751-x
+- url: https://doi.org/10.1007/s10994-021-05946-3
+- url: https://arxiv.org/abs/2104.09967
+- url: https://arxiv.org/abs/2107.00363
+- url: https://doi.org/10.1093/bib/bby095
+- url: https://doi.org/10.1016/j.cmpb.2019.02.007
+- url: https://doi.org/10.1007/s10618-018-0595-5
+- url: http://ceur-ws.org/Vol-2491/abstract50.pdf
+- url: http://ceur-ws.org/Vol-2491/abstract26.pdf
+- url: https://doi.org/10.1007/978-3-030-46133-1_25
+- url: http://arxiv.org/abs/1906.08129
+- url: http://arxiv.org/abs/1910.09457
+- url: https://doi.org/10.1162/neco_a_01096
+- url: https://doi.org/10.1007/978-3-030-10925-7_18
+- url: http://arxiv.org/abs/1803.01575
+- url: http://arxiv.org/abs/1809.02352
+- url: https://doi.org/10.1109/Multi-Temp.2017.8035200
+- url: https://doi.org/10.1109/Multi-Temp.2017.8035198
+- url: https://doi.org/10.1007/978-3-319-71273-4_2
+- url: https://doi.org/10.1007/s10618-016-0456-z
+- url: https://doi.org/10.1007/978-3-319-46227-1_32
+- url: http://arxiv.org/abs/1606.04275
+- url: http://arxiv.org/abs/1606.04278
+- url: https://doi.org/10.1016/j.compag.2015.01.002
+- url: http://arxiv.org/abs/1506.05950
+- url: https://doi.org/10.1016/j.ecoinf.2014.05.006
+- url: https://dl.acm.org/doi/10.5555/2627435.2750352
+- url: https://doi.org/10.1109/TCBB.2014.2338308
+- url: https://doi.org/10.1007/978-3-662-44851-9_33
+- url: http://arxiv.org/abs/1405.4394
+- url: http://arxiv.org/abs/1405.4423
+- url: https://doi.org/10.1016/j.envsoft.2013.04.005
+- url: https://doi.org/10.1007/s10994-013-5354-7
+- url: http://proceedings.mlr.press/v28/dembczynski13.html
+- url: http://arxiv.org/abs/1310.4849
+- url: https://doi.org/10.1016/j.csda.2010.12.007
+- url: https://doi.org/10.1007/s10994-012-5285-8
+- url: https://doi.org/10.1109/TFUZZ.2012.2194151
+- url: https://doi.org/10.3233/978-1-61499-098-7-294
+- url: https://proceedings.neurips.cc/paper/2012/hash/fe2d010308a6b3799a3d9c728ee74244-Abstract.html
+- url: https://doi.org/10.1007/978-3-642-32115-3_52
+- url: http://arxiv.org/abs/1209.4825
+- url: https://doi.org/10.1016/j.artint.2010.11.006
+- url: https://doi.org/10.1016/j.csda.2010.11.018
+- url: https://doi.org/10.1016/j.fss.2010.11.012
+- url: https://doi.org/10.1007/978-3-642-24001-0_24
+- url: https://doi.org/10.1007/978-3-642-24001-0_34
+- url: https://doi.org/10.1109/GEFS.2011.5949490
+- url: https://doi.org/10.1109/ISDA.2011.6121820
+- url: https://proceedings.neurips.cc/paper/2011/hash/71ad16ad2c4d81f348082ff6c4b20768-Abstract.html
+- url: http://arxiv.org/abs/1111.6473
+- url: https://doi.org/10.1186/1471-2105-11-69
+- url: https://doi.org/10.1016/j.ejor.2010.03.018
+- url: https://doi.org/10.1016/j.ins.2010.06.036
+- url: https://www.esann.org/sites/default/files/proceedings/legacy/es2010-82.pdf
+- url: https://doi.org/10.1109/NABIC.2010.5716268
+- url: https://doi.org/10.1007/978-3-642-15880-3_24
+- url: https://doi.org/10.1007/978-3-642-15883-4_32
+- url: http://proceedings.mlr.press/v8/airola10a.html
+- url: https://doi.org/10.1007/978-3-642-14125-6_7
+- url: https://doi.org/10.1007/s10288-008-0085-5
+- url: https://doi.org/10.1007/s10288-009-0095-y
+- url: https://doi.org/10.1016/j.csda.2007.12.001
+- url: https://doi.org/10.1016/j.engappai.2007.07.010
+- url: https://doi.org/10.1016/j.neunet.2008.07.008
+- url: https://doi.org/10.1016/j.patrec.2007.07.019
