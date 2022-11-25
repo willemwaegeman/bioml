@@ -4,7 +4,11 @@ title: Home
 
 # Machine Learning for the Life Sciences
 
+<<<<<<< HEAD
 The BIO-ML research group of Ghent University focusses on the development of machine learning methods for the life sciences. Specific research areas of interest are multi-target prediction, sequence learning, time series analysis, uncertainty quantification and probabilistic models. On this website you find more information about the group.  
+=======
+The BIO-ML research group of Ghent University focusses on the development of machine learning methods for the life sciences. Specific research areas of interest are multi-target prediction, sequence learning, time series analysis, uncertainty quantification and probabilistic models. On this website you find more information about our group.  
+>>>>>>> c3007e6921e164df830390da1f50ed6896e7b74b
 
 {:.center}
 
