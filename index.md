@@ -4,8 +4,7 @@ title: Home
 
 # Machine Learning for the Life Sciences
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/), with automatic citations, GitHub tag imports, pre-built components, and more.
-Spend less time reinventing the wheel, and more time running your lab.
+The BIO-ML research group of Ghent University focusses on the development of machine learning methods for the life sciences. Specific research areas of interest are multi-target prediction, sequence learning, time series analysis, uncertainty quantification and probabilistic models. On this website you find more information about the group.  
 
 {:.center}
 
