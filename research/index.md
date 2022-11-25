@@ -13,6 +13,8 @@ nav:
 
 <br>
 This is an umbrella-term that comprises various complex machine learning settings, such as multi-label classification, multivariate regression, pairwise learning, dyadic prediction, matrix completion, zero-shot learning, etc. Together with other researchers, Willem Waegeman has organized many tutorials and workshops on multi-target prediction in the last ten years, and he has published numerous papers on this topic. It is also the topic he is most often talking about in invited lectures. Currently, the research focus is on the development of a flexible Auto-ML software package for various multi-target prediction problems.
+
+Test. 
 </br>
 
 <br>
@@ -38,6 +40,8 @@ This is a research line that was started ten years ago, with, at that stage, a f
 <br>
 Over the last decade, the research focus has been on developing machine learning solutions for all sorts of -omics data. This includes genomics, epigenomic, transcriptomics and proteomics data, as well as specific phenotyping technologies, with applications in environmental sciences and medicine. One large project also involved the analysis of climate time series. 
 </br>
+
+
 
 {% include section.html %}
 
