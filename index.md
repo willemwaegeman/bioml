@@ -17,8 +17,7 @@ The BIO-ML research group of Ghent University focusses on the development of mac
 # Highlights
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+The Bioml research group at Ghent University developes new machine learning methods, and applies these methods in the life sciences. The group has a specific focus on uncertainty quantification in machine learning, multi-target prediction, structured prediction and time series analysis.  
 
 {%
   include link.html
@@ -39,8 +38,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 %}
 
 {% capture text %}
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+In addition to publishing scientifc papers, we also develop software that is freely available on Github. 
 
 {%
   include link.html
@@ -62,7 +60,7 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 %}
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We are a small but dedicated team and our members have complementary expertise in data science, computer science, mathematics, physics, engineering and biology. 
 
 {%
   include link.html
@@ -82,5 +80,3 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   text=text
 %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
