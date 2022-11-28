@@ -42,9 +42,11 @@ Our lab is part of the [Kermit Research Unit](https://kermit.ugent.be/index.php)
 
 ### <i class="fas fa-mail-bulk"></i>Mailing Address
 
-That St & The Other St  
-Porters Lake, NS B3E 1H3  
-Canada
+Ghent University
+Department of Data Analysis and Mathematical Modelling
+Coupure Links 653  
+9000 Ghent
+Belgium
 {:.center}
 
 {% capture col1 %}
