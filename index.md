@@ -72,23 +72,19 @@ We are a small but dedicated team and our members have complementary expertise i
 {:.center}
 {% endcapture %}
 
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="team"
-  title="Our Team"
-  text=text
-%}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="resources"
-  title="Our Resources"
-  flip=true
-  text=text
-%}
-
 {% capture text %}
 We are a small but dedicated team and our members have complementary expertise in data science, computer science, mathematics, physics, engineering and biology. 
+
+{%
+  include link.html
+  link="teaching"
+  text="See our courses"
+  icon="fas fa-arrow-right"
+  flip=true
+%}
+{:.center}
+{% endcapture %}
+
+
+
 
