@@ -17,7 +17,7 @@ The BIO-ML research group of Ghent University focusses on the development of mac
 # Highlights
 
 {% capture text %}
-The Bioml research group at Ghent University developes new machine learning methods, and applies these methods in the life sciences. The group has a specific focus on uncertainty quantification in machine learning, multi-target prediction, structured prediction and time series analysis.  
+The BIOML research group at Ghent University developes new machine learning methods, and applies these methods in the life sciences. We regularly publish our fundamental work in top-tier machine learning conferences and journals, whereas more applied work is often published in other communities. 
 
 {%
   include link.html
@@ -79,4 +79,16 @@ We are a small but dedicated team and our members have complementary expertise i
   title="Our Team"
   text=text
 %}
+
+{%
+  include feature.html
+  image="images/photo.jpg"
+  link="resources"
+  title="Our Resources"
+  flip=true
+  text=text
+%}
+
+{% capture text %}
+We are a small but dedicated team and our members have complementary expertise in data science, computer science, mathematics, physics, engineering and biology. 
 

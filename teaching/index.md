@@ -8,6 +8,7 @@ nav:
 # <i class="fas fa-microscope"></i>Teaching
 
 **Currently**
+
 	- Machine learning for the life sciences, fall, annually,
 		Master in Bio-science Engineering and Bioinformatics, since 2008
 		
@@ -20,6 +21,7 @@ nav:
 
 				
 **Previously**
+
 	- Calculus, spring, annually,
 	1st Bachelor in Bioscience Engineering, from 2014 till 2018 
 		
