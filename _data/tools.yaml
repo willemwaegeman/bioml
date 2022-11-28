@@ -19,11 +19,12 @@
     - genomics
     - transformers
 
-- title: Cool Tutorial
+- title: Deep MTP Tutorial
   group: more
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  link: https://kermit.ugent.be/multi-target-prediction/
+  description: We organized at ECML/PKDD 2022 a tutorial on deep learning methods for multi-target prediction
   tags:
-    - uncertainty
-    - publication
+    - tutorial
+    - multi-target-prediction
+		- deep learning

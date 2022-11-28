@@ -72,18 +72,7 @@ We are a small but dedicated team and our members have complementary expertise i
 {:.center}
 {% endcapture %}
 
-{% capture text %}
-We are a small but dedicated team and our members have complementary expertise in data science, computer science, mathematics, physics, engineering and biology. 
 
-{%
-  include link.html
-  link="teaching"
-  text="See our courses"
-  icon="fas fa-arrow-right"
-  flip=true
-%}
-{:.center}
-{% endcapture %}
 
 
 
