@@ -81,12 +81,12 @@ We are a small but dedicated team and our members have complementary expertise i
 %}
 
 {% capture text %}
-In addition to publishing scientifc papers, we also develop software that is freely available on Github. 
+At Ghent University, we are responsible for teaching several courses to bachelor and master students. We organize courses in mathematics and machine learning.   
 
 {%
   include link.html
   link="tools"
-  text="Browse our tools"
+  text="See our courses"
   icon="fas fa-arrow-right"
   flip=true
 %}
@@ -95,7 +95,7 @@ In addition to publishing scientifc papers, we also develop software that is fre
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/our_research.jpg"
   link="resources"
   title="Our Resources"
   flip=true
