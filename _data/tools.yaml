@@ -22,9 +22,8 @@
 - title: Deep MTP Tutorial
   group: more
   image: images/photo.jpg
-  link: https://kermit.ugent.be/multi-target-prediction/
+  link: https://kermit.ugent.be/multi-target-prediction
   description: We organized at ECML/PKDD 2022 a tutorial on deep learning methods for multi-target prediction
   tags:
     - tutorial
-    - multi-target-prediction
-		- deep learning
+    - multi-target prediction
