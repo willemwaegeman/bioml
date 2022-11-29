@@ -85,7 +85,7 @@ At Ghent University, we are responsible for teaching several courses to bachelor
 
 {%
   include link.html
-  link="tools"
+  link="teaching"
   text="See our courses"
   icon="fas fa-arrow-right"
   flip=true
@@ -97,7 +97,7 @@ At Ghent University, we are responsible for teaching several courses to bachelor
   include feature.html
   image="images/our_research.jpg"
   link="resources"
-  title="Our Resources"
+  title="Our Courses"
   flip=true
   text=text
 %}
