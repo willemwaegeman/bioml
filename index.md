@@ -31,7 +31,7 @@ The BIOML research group at Ghent University developes new machine learning meth
 
 {%
   include feature.html
-  image="images/our_research.jpg"
+  image="images/research2.png"
   link="research"
   title="Our Research"
   text=text
@@ -52,7 +52,7 @@ In addition to publishing scientifc papers, we also develop software that is fre
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/software.jpg"
   link="resources"
   title="Our Resources"
   flip=true
