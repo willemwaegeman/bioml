@@ -72,7 +72,35 @@ We are a small but dedicated team and our members have complementary expertise i
 {:.center}
 {% endcapture %}
 
+{%
+  include feature.html
+  image="images/photo.jpg"
+  link="team"
+  title="Our Team"
+  text=text
+%}
 
+{% capture text %}
+In addition to publishing scientifc papers, we also develop software that is freely available on Github. 
+
+{%
+  include link.html
+  link="tools"
+  text="Browse our tools"
+  icon="fas fa-arrow-right"
+  flip=true
+%}
+{:.center}
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/photo.jpg"
+  link="resources"
+  title="Our Resources"
+  flip=true
+  text=text
+%}
 
 
 
