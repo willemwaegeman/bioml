@@ -9,12 +9,12 @@ nav:
 
 
 {% capture text %}
-
+This is an umbrella-term that comprises various complex machine learning settings, such as multi-label classification, multivariate regression, pairwise learning, dyadic prediction, matrix completion, zero-shot learning, etc. Together with other researchers, Willem Waegeman has organized many tutorials and workshops on multi-target prediction in the last ten years, and he has published numerous papers on this topic. It is also the topic he is most often talking about in invited lectures. Currently, the research focus is on the development of a flexible Auto-ML software package for various multi-target prediction problems.
 
 {%
   include link.html
   link="research"
-  text="See what we've published"
+  text="See a key publication on this topic"
   icon="fas fa-arrow-right"
   flip=true
 %}
@@ -23,19 +23,19 @@ nav:
 
 {%
   include feature.html
-  image="images/research2.png"
+  image="images/matrix"
   link="research"
   title="Multi-target prediction"
   text=text
 %}
 
 {% capture text %}
-In addition to publishing scientifc papers, we also develop software that is freely available on Github. 
+This is a research line that was started five years ago, and that has been expanded since then. Specific interests include sequence labelling, autoregressive models, time series forecasting, causal inference in time series, feature learning for sequential data and spatio-temporal problems.
 
 {%
   include link.html
   link="tools"
-  text="Browse our tools"
+  text="See a key publication"
   icon="fas fa-arrow-right"
   flip=true
 %}
@@ -44,41 +44,21 @@ In addition to publishing scientifc papers, we also develop software that is fre
 
 {%
   include feature.html
-  image="images/software.jpg"
+  image="images/time.jpg"
   link="resources"
-  title="Our Resources"
+  title="Sequence models and time series analysis"
   flip=true
   text=text
 %}
 
-{% capture text %}
-We are a small but dedicated team and our members have complementary expertise in data science, computer science, mathematics, physics, engineering and biology. 
-
-{%
-  include link.html
-  link="team"
-  text="Meet our team"
-  icon="fas fa-arrow-right"
-  flip=true
-%}
-{:.center}
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="team"
-  title="Our Team"
-  text=text
-%}
 
 {% capture text %}
-At Ghent University, we are responsible for teaching several courses to bachelor and master students. We organize courses in mathematics and machine learning.   
+This is a research line that was started ten years ago, with, at that stage, a focus on Bayes-optimal inference from probabilistic models. Recently, the interests have been extended to topics such as quantifying epistemic and aleatoric uncertainty, classifier calibration, set-valued prediction, prediction intervals, conformal prediction, open-set recognition and out-of-distribution detection. 
 
 {%
   include link.html
   link="teaching"
-  text="See our courses"
+  text="See a key publication"
   icon="fas fa-arrow-right"
   flip=true
 %}
@@ -87,13 +67,33 @@ At Ghent University, we are responsible for teaching several courses to bachelor
 
 {%
   include feature.html
-  image="images/our_research.jpg"
+  image="images/uncertainty.jpg"
   link="resources"
-  title="Our Courses"
+  title="Uncertainty quantification and probabilistic models"
   flip=true
   text=text
 %}
 
+{% capture text %}
+Over the last decade, the research focus has been on developing machine learning solutions for all sorts of -omics data. This includes genomics, epigenomic, transcriptomics and proteomics data, as well as specific phenotyping technologies, with applications in environmental sciences and medicine. One large project also involved the analysis of climate time series. 
+
+{%
+  include link.html
+  link="team"
+  text="See a key publication"
+  icon="fas fa-arrow-right"
+  flip=true
+%}
+{:.center}
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/dna.jpg"
+  link="https://academic.oup.com/bioinformatics/article/38/3/597/6413629"
+  title="Applications in the life sciences"
+  text=text
+%}
 
 
 **Multi-target prediction**
