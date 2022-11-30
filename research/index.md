@@ -79,7 +79,7 @@ Over the last decade, the research focus has been on developing machine learning
 
 {%
   include link.html
-  link="team"
+  link="https://academic.oup.com/bioinformatics/article/38/3/597/6413629"
   text="See a key publication"
   icon="fas fa-arrow-right"
   flip=true
