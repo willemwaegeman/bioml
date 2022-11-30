@@ -23,7 +23,7 @@ This is an umbrella-term that comprises various complex machine learning setting
 
 {%
   include feature.html
-  image="images/matrix"
+  image="images/matrix.jfif"
   link="research"
   title="Multi-target prediction"
   text=text
@@ -44,7 +44,7 @@ This is a research line that was started five years ago, and that has been expan
 
 {%
   include feature.html
-  image="images/time.jpg"
+  image="images/time.jpeg"
   link="resources"
   title="Sequence models and time series analysis"
   flip=true
@@ -67,7 +67,7 @@ This is a research line that was started ten years ago, with, at that stage, a f
 
 {%
   include feature.html
-  image="images/uncertainty.jpg"
+  image="images/uncertainty.png"
   link="resources"
   title="Uncertainty quantification and probabilistic models"
   flip=true
