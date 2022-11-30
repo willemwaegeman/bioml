@@ -2,7 +2,7 @@
 title: Research
 nav:
   order: 1
-  tooltip: Published works
+  tooltip: Topics of Interest
 ---
 
 # <i class="fas fa-microscope"></i>Research
@@ -13,8 +13,8 @@ This is an umbrella-term that comprises various complex machine learning setting
 
 {%
   include link.html
-  link="research"
-  text="See a key publication on this topic"
+  link="https://biblio.ugent.be/publication/8750435"
+  text="See a key publication"
   icon="fas fa-arrow-right"
   flip=true
 %}
@@ -24,7 +24,7 @@ This is an umbrella-term that comprises various complex machine learning setting
 {%
   include feature.html
   image="images/books.jpg"
-  link="research"
+  link="https://biblio.ugent.be/publication/8750435"
   title="Multi-target prediction"
   text=text
 %}
@@ -34,7 +34,7 @@ This is a research line that was started five years ago, and that has been expan
 
 {%
   include link.html
-  link="tools"
+  link="https://academic.oup.com/bioinformatics/article/38/3/597/6413629"
   text="See a key publication"
   icon="fas fa-arrow-right"
   flip=true
@@ -45,7 +45,7 @@ This is a research line that was started five years ago, and that has been expan
 {%
   include feature.html
   image="images/time.jpg"
-  link="resources"
+  link="https://academic.oup.com/bioinformatics/article/38/3/597/6413629"
   title="Sequence models and time series analysis"
   flip=true
   text=text
@@ -57,7 +57,7 @@ This is a research line that was started ten years ago, with, at that stage, a f
 
 {%
   include link.html
-  link="teaching"
+  link="https://link.springer.com/article/10.1007/s10994-021-05946-3"
   text="See a key publication"
   icon="fas fa-arrow-right"
   flip=true
@@ -68,7 +68,7 @@ This is a research line that was started ten years ago, with, at that stage, a f
 {%
   include feature.html
   image="images/uncertainty.jpg"
-  link="resources"
+  link="https://link.springer.com/article/10.1007/s10994-021-05946-3"
   title="Uncertainty quantification and probabilistic models"
   flip=true
   text=text
@@ -79,7 +79,7 @@ Over the last decade, the research focus has been on developing machine learning
 
 {%
   include link.html
-  link="https://academic.oup.com/bioinformatics/article/38/3/597/6413629"
+  link="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8649224/"
   text="See a key publication"
   icon="fas fa-arrow-right"
   flip=true
@@ -90,7 +90,7 @@ Over the last decade, the research focus has been on developing machine learning
 {%
   include feature.html
   image="images/dna.jpg"
-  link="https://academic.oup.com/bioinformatics/article/38/3/597/6413629"
+  link="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8649224/"
   title="Applications in the life sciences"
   text=text
 %}
