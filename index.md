@@ -74,7 +74,7 @@ We are a small but dedicated team and our members have complementary expertise i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/team.jfif"
   link="team"
   title="Our Team"
   text=text
