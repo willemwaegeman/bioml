@@ -74,7 +74,7 @@ We are a small but dedicated team and our members have complementary expertise i
 
 {%
   include feature.html
-  image="images/team.jfif"
+  image="images/team.png"
   link="team"
   title="Our Team"
   text=text
@@ -95,7 +95,7 @@ At Ghent University, we are responsible for teaching several courses to bachelor
 
 {%
   include feature.html
-  image="images/our_research.jpg"
+  image="images/teach.png"
   link="resources"
   title="Our Courses"
   flip=true
