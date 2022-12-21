@@ -1,6 +1,6 @@
 ---
 name: Mira Kristin Juergens
-image: images/Mira_Juergens.png
+image: images/Mira_juergens.png
 description:
 role: phd
 aliases:
