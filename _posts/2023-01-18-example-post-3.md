@@ -1,5 +1,5 @@
 ---
-title: Example post 3
+title: PhD degree for Friederike Mey
 tags: synthetic biology, systems biology, machine learning
 author: Willem Waegeman
 member: upton-goode
