@@ -2,7 +2,7 @@
 name: Thomas Mortier
 image: images/Thomas_Mortier.png
 description:
-role: phd
+role: postdoc
 aliases:
   - Thomas Mortier
 links:
