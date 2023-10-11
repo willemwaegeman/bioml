@@ -21,6 +21,12 @@ At this moment our team consists of the following members.
   include list.html
   data="members"
   component="portrait"
+  filters="role: postdoc"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
   filters="role: phd"
 %}
 {%
