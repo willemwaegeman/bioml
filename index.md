@@ -14,6 +14,7 @@ The BIO-ML research group of Ghent University focusses on the development of mac
 
 {% include section.html %}
 
+<!---
 # Highlights
 
 {% capture text %}
@@ -101,7 +102,7 @@ At Ghent University, we are responsible for teaching several courses to bachelor
   flip=true
   text=text
 %}
-
+-->
 
 
 
