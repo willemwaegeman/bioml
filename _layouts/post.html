@@ -15,9 +15,9 @@ layout: default
 {% include section.html %}
 
 <!-- Display image if post.image exists -->
-{% if post.image %}
+{% if page.image %}
   <div style="text-align: center;">
-    <img src="{{ post.image | relative_url }}" alt="{{ title }}" style="width: 500px; height: 400px;">
+    <img src="{{ page | relative_url }}" alt="{{ title }}" style="width: 500px; height: 400px;">
   </div>
 {% endif %}
 
