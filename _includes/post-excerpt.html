@@ -23,8 +23,14 @@
     member=post.member
     date=post.date
     tags=post.tags
-    image=post.image
   %}
+
+    <!-- Display image if post.image exists -->
+  {% if post.image %}
+    <div style="text-align: center;">
+      <img src="{{ post.image | relative_url }}" alt="{{ title }}" style="max-width: 100%; height: auto;">
+    </div>
+  {% endif %}
 
   {% assign content = post.content | default: "" %}
   <p>
