@@ -17,7 +17,7 @@ layout: default
 <!-- Display image if post.image exists -->
 {% if page.image %}
   <div style="text-align: center;">
-    <img src="{{ page | relative_url }}" alt="{{ title }}" style="width: 500px; height: 400px;">
+    <img src="{{ page.image | relative_url }}" alt="{{ title }}" style="width: 500px; height: 400px;">
   </div>
 {% endif %}
 
