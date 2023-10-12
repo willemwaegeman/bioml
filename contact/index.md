@@ -40,7 +40,9 @@ Our lab is part of the [Kermit Research Unit](https://kermit.ugent.be/index.php)
 
 {% include section.html %}
 
+<!---
 ### <i class="fas fa-mail-bulk"></i>Mailing Address
+-->
 
 Ghent University
 Department of Data Analysis and Mathematical Modelling
