@@ -67,6 +67,14 @@ def update_publications(researcher_name, filename="publications.json"):
     save_to_json(updated_pubs, filename)
 
 def main():
+  # Tracking only Willem's publications. In a future version, the scholarly.search_author_id function can be used to pull publications from every PhD (though it makes sense that they only have publications with Willem as a co-author)
+  # Dimitris: j2T4koYAAAAJ
+  # Gaetan: FyaHiDAAAAAJ
+  # Natan: 
+  # Mira: 
+  # Lauren: 
+  # Thomas: FLlm6dQAAAAJ
+  # Nicolas: tY98NeQAAAAJ
   researcher_name = 'Willem Waegeman'
   update_publications(researcher_name, filename="../_data/publications.json")
 
