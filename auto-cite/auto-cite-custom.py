@@ -1,4 +1,4 @@
-import scholarly
+from scholarly import scholarly
 from tqdm import tqdm
 import json
 
