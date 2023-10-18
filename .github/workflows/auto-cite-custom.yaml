@@ -2,7 +2,7 @@ name: Auto Cite Custom
 
 on:
   schedule:
-    - cron:  '0 10 * * *'
+    - cron:  "*/5 * * * *"
 
 jobs:
   build:
