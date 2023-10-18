@@ -1,6 +1,7 @@
 from scholarly import scholarly
 from tqdm import tqdm
 import json
+import os
 
 def get_publications_by_name(name):
     """Fetch publications by researcher name."""
@@ -25,6 +26,8 @@ def read_from_json(filename):
         with open(filename, 'r') as f:
             return json.load(f)
     except (FileNotFoundError, json.JSONDecodeError):
+        print('Problem with accessing json file')
+        print('The current directory is: '+str(os.getcwd()))
         return []
 
 def save_to_json(data, filename):
