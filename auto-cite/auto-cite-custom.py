@@ -59,15 +59,16 @@ def update_publications(researcher_name, filename="publications.json"):
 
     # For only the new publications, fetch detailed information to get co-authors
     print('Found '+str(len(pubs_to_add))+' new publications. ',end='')
+    enriched_pubs_to_add = []
     if len(pubs_to_add) != 0:
         print(' Extracting detailed info...')
         enriched_pubs_to_add = [get_detailed_info(pub) for pub in tqdm(pubs_to_add)]
         print('Done')
     # Combine existing and new publications
-    updated_pubs = existing_pubs + enriched_pubs_to_add
-
-    # Save the combined list back to the JSON file
-    save_to_json(updated_pubs, filename)
+    if enriched_pubs_to_add:
+        updated_pubs = existing_pubs + enriched_pubs_to_add
+        # Save the combined list back to the JSON file
+        save_to_json(updated_pubs, filename)
 
 def main():
   # Tracking only Willem's publications. In a future version, the scholarly.search_author_id function can be used to pull publications from every PhD (though it makes sense that they only have publications with Willem as a co-author)
