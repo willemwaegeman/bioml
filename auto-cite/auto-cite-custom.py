@@ -79,7 +79,7 @@ def main():
   # Thomas: FLlm6dQAAAAJ
   # Nicolas: tY98NeQAAAAJ
   researcher_name = 'Willem Waegeman'
-  update_publications(researcher_name, filename="../_data/publications.json")
+  update_publications(researcher_name, filename="_data/publications.json")
 
 if __name__ == "__main__":
     main()
