@@ -72,7 +72,6 @@ Over the last decade, the research focus has been on developing machine learning
   image="images/dna.jpg"
   link="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8649224/"
   title="Applications in the life sciences"
-  flip=true
   text=text
 %}
 
@@ -94,6 +93,7 @@ This is an umbrella-term that comprises various complex machine learning setting
   image="images/books.jpg"
   link="https://biblio.ugent.be/publication/8750435"
   title="Multi-target prediction"
+  flip=true
   text=text
 %}
 
