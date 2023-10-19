@@ -25,7 +25,6 @@ This is a research line that was started ten years ago, with, at that stage, a f
   image="images/uncertainty.jpg"
   link="https://link.springer.com/article/10.1007/s10994-021-05946-3"
   title="Uncertainty quantification and probabilistic models"
-  flip=true
   text=text
 %}
 
@@ -73,6 +72,7 @@ Over the last decade, the research focus has been on developing machine learning
   image="images/dna.jpg"
   link="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8649224/"
   title="Applications in the life sciences"
+  flip=true
   text=text
 %}
 
