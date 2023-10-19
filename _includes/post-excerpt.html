@@ -32,7 +32,7 @@
     </div>
   {% endif %}
 
-  {% assign content = post.content | default: "" %}
+  {{% assign content = post.content | default: "" %}}
   <p>
     {{ content | strip_html | truncate: 500 }}
   </p>
