@@ -7,7 +7,7 @@ nav:
 
 # <i class="fas fa-microscope"></i>Teaching
 
-{% include image="images/teaching.png" %}
+{% include figure.html image="images/teaching.png" %}
 
 **Currently**
 
