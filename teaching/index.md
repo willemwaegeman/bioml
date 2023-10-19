@@ -7,6 +7,8 @@ nav:
 
 # <i class="fas fa-microscope"></i>Teaching
 
+{% include image="images/teaching.png" %}
+
 **Currently**
 
 - Machine learning for the life sciences, fall, annually,
