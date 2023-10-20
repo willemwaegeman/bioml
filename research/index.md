@@ -30,11 +30,11 @@ This is a research line that was started ten years ago, with, at that stage, a f
 
 
 {% capture text %}
-This is a research line that was started five years ago, and that has been expanded since then. Specific interests include sequence labelling, autoregressive models, time series forecasting, causal inference in time series, feature learning for sequential data and spatio-temporal problems.
+This is an umbrella-term that comprises various complex machine learning settings, such as multi-label classification, multivariate regression, pairwise learning, dyadic prediction, matrix completion, zero-shot learning, etc. Together with other researchers, Willem Waegeman has organized many tutorials and workshops on multi-target prediction in the last ten years, and he has published numerous papers on this topic. It is also the topic he is most often talking about in invited lectures. Currently, the research focus is on the development of a flexible Auto-ML software package for various multi-target prediction problems.
 
 {%
   include link.html
-  link="https://academic.oup.com/bioinformatics/article/38/3/597/6413629"
+  link="https://biblio.ugent.be/publication/8750435"
   text="See a key publication"
   icon="fas fa-arrow-right"
   flip=true
@@ -44,9 +44,9 @@ This is a research line that was started five years ago, and that has been expan
 
 {%
   include feature.html
-  image="images/time.jpg"
-  link="https://academic.oup.com/bioinformatics/article/38/3/597/6413629"
-  title="Sequence models and time series analysis"
+  image="images/books.jpg"
+  link="https://biblio.ugent.be/publication/8750435"
+  title="Multi-target prediction"
   flip=true
   text=text
 %}
@@ -76,11 +76,11 @@ Over the last decade, the research focus has been on developing machine learning
 %}
 
 {% capture text %}
-This is an umbrella-term that comprises various complex machine learning settings, such as multi-label classification, multivariate regression, pairwise learning, dyadic prediction, matrix completion, zero-shot learning, etc. Together with other researchers, Willem Waegeman has organized many tutorials and workshops on multi-target prediction in the last ten years, and he has published numerous papers on this topic. It is also the topic he is most often talking about in invited lectures. Currently, the research focus is on the development of a flexible Auto-ML software package for various multi-target prediction problems.
+This is a research line that was started five years ago, and that has been expanded since then. Specific interests include sequence labelling, autoregressive models, time series forecasting, causal inference in time series, feature learning for sequential data and spatio-temporal problems.
 
 {%
   include link.html
-  link="https://biblio.ugent.be/publication/8750435"
+  link="https://academic.oup.com/bioinformatics/article/38/3/597/6413629"
   text="See a key publication"
   icon="fas fa-arrow-right"
   flip=true
@@ -90,9 +90,9 @@ This is an umbrella-term that comprises various complex machine learning setting
 
 {%
   include feature.html
-  image="images/books.jpg"
-  link="https://biblio.ugent.be/publication/8750435"
-  title="Multi-target prediction"
+  image="images/time.jpg"
+  link="https://academic.oup.com/bioinformatics/article/38/3/597/6413629"
+  title="Sequence models and time series analysis"
   flip=true
   text=text
 %}
