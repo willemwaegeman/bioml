@@ -28,7 +28,7 @@
     - tutorial
     - multi-target prediction
 
-  - title: Tutorial at ECML/PKDD 2023
+- title: Tutorial at ECML/PKDD 2023
   group: more
   image: images/ecml_pkdd_2023_uncertainty.jpg
   link: https://sites.google.com/view/aeustatml-tutorial
