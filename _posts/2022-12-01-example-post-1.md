@@ -3,7 +3,6 @@ title: WUML2023 in Ghent
 tags:
   - uncertainty
   - workshop
-  - big
 author: Willem Waegeman
 member: anne-chovie
 ---
