@@ -2,7 +2,7 @@
 name: Dimitris Iliadis
 image: images/Dimitris_Iliadis.png
 description: 
-role: phd
+role: postdoc
 aliases:
   - Dimitrios Iliadis
 links:
