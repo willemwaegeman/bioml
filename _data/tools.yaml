@@ -19,6 +19,22 @@
     - genomics
     - transformers
 
+- title: Uncertainty-aware classification with set-valued predictions
+  group: featured
+  link: https://github.com/tfmortie/setvaluedprediction
+  description: Package for set-valued prediction in flat and hierarchical classification.
+  tags:
+    - publication
+    - Uncertainty
+
+- title: Uncertainty-aware machine learning
+  group: featured
+  link: https://github.com/tfmortie/uaml
+  description: Python package for uncertainty-aware classification built on top of Scikit-learn.
+  tags:
+    - publication
+    - Uncertainty
+
 - title: Deep MTP Tutorial
   group: more
   image: images/photo.jpg
