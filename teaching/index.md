@@ -15,7 +15,7 @@ nav:
 	1st Bachelor in Bio-science Engineering, since 2014
 	Lecturer-in-charge
   
-- Analysis II: Functions of several variables, annually,
+- Analysis II: Functions of several variables, spring, annually,
   	1st Bachelor in Bio-science Engineering, since 2014
   	Co-lecturer
 
@@ -23,11 +23,11 @@ nav:
 	Master in Bio-science Engineering and Bioinformatics, since 2008
 	Lecturer-in-charge
 		
-- Machine learning: from theory to practice, fall, annually, 
+- Machine learning: from theory to practice, spring, annually, 
 	UGent Academy for Engineers, since 2021 (evening program)
   	Co-lecturer
 
-  - Deep learning: from theory to practice, fall, annually, 
+- Deep learning: from theory to practice, fall, annually, 
 	UGent Academy for Engineers, since 2021 (evening program)
   	Lecturer-in-charge
 
