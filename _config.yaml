@@ -3,7 +3,7 @@
 # site properties and page defaults
 title: BIOML Lab
 description: The official website of the BIOML lab.
-logo: images/logo.svg
+logo: images/logo_files/BioML-07.svg
 header: images/background.jpg
 footer: images/background.jpg
 baseurl: /bioml
