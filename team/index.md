@@ -72,3 +72,21 @@ Our work is made possible by funding from several organizations.
   tooltip1="Flanders AI"
 
 %}
+
+## Thesis Students and Their Topics
+
+Our group has had the privilege of guiding numerous thesis students through their research projects. Below is a list of these students, their thesis topics, and the year of their thesis:
+
+| Student Name     | Thesis Topic                                                                                          | Year        |
+|------------------|-------------------------------------------------------------------------------------------------------|-------------|
+| J.-H. Nowé       | Countering illegal timbering by using multimodal machine learning                                    | 2022 – 2023 |
+| N. Tourne        | Two-branch neural networks for predicting protein-DNA interaction                                    | 2022 – 2023 |
+| Y. Van Laere     | Detection of 5mC modification in Nanopore sequencing data using deep learning                        | 2021 – 2022 |
+| V. Moortgat      | On Calibration of Probabilistic Multi-Class Classifiers with Hierarchical Factorization              | 2021 – 2022 |
+| E. Lorrez        | Quantifying the environmental controls on African tropical forest dynamics                          | 2020 – 2021 |
+| L. Theunissen    | A comparison of flat and hierarchical classification for automatic annotation of single-cell transcriptomics data | 2020 – 2021 |
+| T. Willaert      | Improving classification by rejection of high epistemic uncertainty points                           | 2020 – 2021 |
+| K. Zhang         | Drug-target interaction prediction using multi-target prediction methods                             | 2020 – 2021 |
+| L. Davey         | Artificial neural networks to uncover features in promoter sequences responsible for nonorthogonality in E. Coli | 2019 – 2020 |
+| B. De Saedeleer  | Combatting illegal timber trade using chemical fingerprints: the power of mathematics and mass spectrometry | 2019 – 2020 |
+| L. Pollaris      | Protein secondary structure prediction using transformer networks                                     | 2019 - 2020 |
