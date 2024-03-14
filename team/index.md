@@ -39,7 +39,7 @@ At this moment our team consists of the following members.
 
 {% include section.html background="images/banner.jpg" dark=true%}
 
-Former PhD students: Friederike Mey, Jim Clauwaert, Peter Rubbens, Christina Papagiannopoulou, Michiel Stock
+Former PhD students: Laure Van Den Bulcke, Friederike Mey, Jim Clauwaert, Peter Rubbens, Christina Papagiannopoulou, Michiel Stock
 
 {% include section.html %}
 
