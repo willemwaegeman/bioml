@@ -66,4 +66,8 @@ Our work is made possible by funding from several organizations.
 
 Our group has had the privilege of guiding numerous thesis students through their research projects. Below is a list of these students, their thesis topics, and the year of their thesis:
 
-
+<ul>
+<li>J.-H. Nowé - Countering illegal timbering by using multimodal machine learning (2022 – 2023)</li>
+<li>N. Tourne - Two-branch neural networks for predicting protein-DNA interaction (2022 – 2023)</li>
+<li>Y. Van Laere - Detection of 5mC modification in Nanopore sequencing data using deep learning (2021 – 2022)</li>
+</ul>
