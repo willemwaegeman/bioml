@@ -56,7 +56,7 @@ Our work is made possible by funding from several organizations.
   include gallery.html
   style="square"
 
-  image1="images/ai_flanders_logo_100.png"
+  image1="images/ai_flanders_logo_300.png"
   link1="https://www.flandersairesearch.be/en"
   tooltip1="Flanders AI"
 
