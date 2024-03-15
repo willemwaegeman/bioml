@@ -12,5 +12,4 @@ links:
   twitter: 
 ---
 
-
-Study and design of classification algorithms and loss functions
+Uncertainty quantification in machine learning. 
