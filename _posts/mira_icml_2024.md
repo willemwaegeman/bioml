@@ -1,0 +1,9 @@
+---
+title: ICML publication 2024
+tags: uncertainty-estimation, evidential-deep-learning
+author: Mira Juergens
+member: upton-goode
+image: images/ICML_2024_Mira.jpeg.
+---
+
+On July 25, 2024, Mira presented her paper "Is Epistemic Uncertainty faithfully represented by Evidential Deep Learning methods?" at ICML. The link to the pdf and a short presentation can be found [here](https://icml.cc/virtual/2024/poster/33148).
