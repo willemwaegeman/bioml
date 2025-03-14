@@ -160,14 +160,14 @@ Our group has had the privilege of guiding numerous thesis students through thei
 
 (2024 – 2025)
 <ul>
-<li>R. Claeys</li>
-<li>W. Welvaert</li>
+<li>R. Claeys - Variational inference for DTI</li>
+<li>W. Welvaert - End-to-end de novo metabolomics</li>
 </ul>
 
 (2023 – 2024)
 <ul>
 <li>S. Jimenez - Disentangling uncertainties in Machine Learning: A comparative approach.</li>
-<li>J. Cueva Villavicencio</li>
+<li>J. Cueva Villavicencio - Novel neural networks for bacterial species prediction from MALDI-TOF data</li>
 </ul>
 
 (2022 – 2023)
