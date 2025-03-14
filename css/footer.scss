@@ -12,7 +12,7 @@ footer {
   flex-direction: column;
   gap: 20px;
   padding: 40px;
-  color: $white;
+  color: black;
   background: $gray-800;
   text-align: center;
   box-shadow: $shadow;
@@ -26,8 +26,8 @@ footer {
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
-    gap: 10px;
-    line-height: $spacing + 0.3;
+    gap: 7px;
+    line-height: $spacing;
 
     .link {
       margin: 0;
@@ -43,6 +43,6 @@ footer {
   }
 
   a {
-    color: currentColor;
+    color: #000000;
   }
 }

@@ -13,4 +13,4 @@ links:
 ---
 
 
-Machine learning methods for single-cell transcriptomics
+My research focuses on translating theoretical uncertainty research into practical applications. I specifically work on the application of automatic cell type annotation of single-cell transcriptomics data.

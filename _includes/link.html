@@ -11,7 +11,7 @@
 
   {%- assign text = include.text -%}
   {%- if text == "" -%}
-    {%- assign text = type.text -%}
+  {%- assign text = type.text | replace: "$LINK", link -%}
   {%- endif -%}
 
   {%- assign tooltip = include.tooltip -%}

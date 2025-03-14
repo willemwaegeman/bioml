@@ -5,10 +5,35 @@ nav:
   tooltip: Email, address, and location
 ---
 
-# <i class="fas fa-envelope"></i>Contact
 
-Our lab is part of the [Kermit Research Unit](https://kermit.ugent.be/index.php), at the faculty of [Bioscience Engineering](https://www.ugent.be/bw/en) of Ghent University.
+<section style="
+  background-image: url('images/banner.jpg');
+  background-size: cover;
+  background-position: center;
+  padding: 4rem 2rem;
+  text-align: center;
+  color: #4fc067;
+">
+  <h2 style="
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin-bottom: 1rem;
+  ">
+    Contact
+  </h2>
 
+  <p style="
+    font-size: 1.5rem;
+    line-height: 1.6;
+    max-width: 600px;
+    margin: 0 auto;
+color: #000000;
+  ">
+Our lab is part of the <a href="https://kermit.ugent.be/index.php">Kermit Research Unit</a>, at the faculty of <a href="https://www.ugent.be/bw/en">Bioscience Engineering</a> of Ghent University.
+
+
+  </p>
+</section>
 {%
   include link.html
   type="email"
@@ -56,6 +81,8 @@ Belgium
   include figure.html
   image="images/coupure_2.jpg"
   caption="Campus Coupure"
+width=300
+
 %}
 {% endcapture %}
 {% capture col2 %}
@@ -63,6 +90,16 @@ Belgium
   include figure.html
   image="images/coupure_3.jpg"
   caption="Campus Coupure"
+width=300
+
 %}
 {% endcapture %}
-{% include two-col.html col1=col1 col2=col2 %}
+
+
+{%
+include figure.html
+image="images/coupure_3.jpg"
+caption="Campus Coupure"
+width=300
+
+%}

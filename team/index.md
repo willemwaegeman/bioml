@@ -5,11 +5,24 @@ nav:
   tooltip: About our team
 ---
 
-# <i class="fas fa-users"></i>Team
-
-At this moment our team consists of the following members. 
-
 {% include section.html %}
+<section style="
+  background-image: url('images/banner.jpg');
+  background-size: cover;
+  background-position: center;
+  padding: 4rem 2rem;
+  text-align: center;
+  color: #4fc067;
+">
+  <h2 style="
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin-bottom: 1rem;
+  ">
+    Team
+  </h2>
+</section>
+
 
 {%
   include list.html
@@ -37,34 +50,125 @@ At this moment our team consists of the following members.
 %}
 {:.center}
 
-{% include section.html background="images/banner.jpg" dark=true%}
-
-Former PhD students: Nicolas Dewolf, Laure Van Den Bulcke, Dimitris Iliadis, Friederike Mey, Jim Clauwaert, Peter Rubbens, Christina Papagiannopoulou, Michiel Stock
+{% include section-title.html 
+background="images/banner.jpg" dark=true
+title="Our Former Members"
+subtitle=""
+%}
+{%
+include list.html
+data="members"
+component="names"
+filters="role: exmember"
+%}
 
 {% include section.html %}
 
-## Join
+<section style="
+  background-image: url('images/banner.jpg');
+  background-size: cover;
+  background-position: center;
+  padding: 4rem 2rem;
+  text-align: center;
+  color: #4fc067;
+">
+  <h2 style="
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin-bottom: 1rem;
+  ">
+    Join Us
+  </h2>
 
-#### If you are looking for a PhD or postdoc position, please contact Willem Waegeman
+  <p style="
+    font-size: 1.25rem;
+    line-height: 1.6;
+    max-width: 600px;
+    margin: 0 auto;
+  ">
+    If you are looking for a <strong>PhD</strong> or <strong>Postdoc</strong> position,<br>
+    please contact <strong>Willem Waegeman</strong>.
+  </p>
+</section>
 
-## Funding
+<hr style="
+  border: none;
+  border-top: 2px solid #ccc;
+  margin: 2rem 0;
+  width: 100%;
+">
 
-Our work is made possible by funding from several organizations.
+<section style="
+  background-image: url('images/banner.jpg');
+  background-size: cover;
+  background-position: center;
+  padding: 4rem 2rem;
+  text-align: center;
+  color: #309379;
+align-items: center;
+">
+  <h2 style="
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin-bottom: 1rem;
+  ">
+    Funding
+  </h2>
+
+  <p style="
+    font-size: 1.25rem;
+    line-height: 1.6;
+    max-width: 90%;
+    margin: 0 auto;
+align-items: center;
+  ">
+    Our work is made possible by funding from several organizations.
+  </p>
+</section>
+
 {:.center}
 
+{% include section.html full=true %}
 {%
-  include gallery.html
+  include gallery-custom-size.html
   style="square"
 
-  image1="images/ai_flanders_logo.png"
+  image1="images/institutions/flanders_ai.png"
   link1="https://www.flandersairesearch.be/en"
   tooltip1="Flanders AI"
 
+    image2="images/institutions/ghentUniversity.png"
+    link2="https://www.ugent.be/en"
+    tooltip2="Ghent University"
+
+    image3="images/institutions/fwo.png"
+    link3="https://www.fwo.be/en/"
+    tooltip3="Research Foundation Flanders"
+
 %}
+{% include section.html %}
+<hr style="
+  border: none;
+  border-top: 2px solid #ccc;
+  margin: 2rem 0;
+  width: 100%;
+">
 
 ## Thesis Students and Their Topics
 
 Our group has had the privilege of guiding numerous thesis students through their research projects. Below is a list of these students, their thesis topics, and the year of their thesis:
+
+(2024 – 2025)
+<ul>
+<li>R. Claeys</li>
+<li>W. Welvaert</li>
+</ul>
+
+(2023 – 2024)
+<ul>
+<li>S. Jimenez - Disentangling uncertainties in Machine Learning: A comparative approach.</li>
+<li>J. Cueva Villavicencio</li>
+</ul>
 
 (2022 – 2023)
 <ul>

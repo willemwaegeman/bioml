@@ -6,7 +6,7 @@
 @import "mixins";
 
 a {
-  color: $accent;
+  color: #4fc067;
   transition: color $fast;
   overflow-wrap: break-word;
 }
@@ -23,7 +23,7 @@ a:hover {
   max-width: 100%;
   margin: 5px;
   padding: 5px;
-  font-size: 0.9rem;
+  font-size: 1.2rem;
   text-decoration: none;
   vertical-align: middle;
   transition: background $fast, color $fast, opacity $fast;
@@ -45,7 +45,7 @@ a:hover {
     margin: 10px;
     padding: 5px 10px;
     border-radius: 5px;
-    background: $accent;
+    background: #4fc067;
     color: $white;
 
     &:hover {

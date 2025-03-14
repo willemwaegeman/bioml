@@ -2,7 +2,7 @@
 name: Nicolas Dewolf
 image: images/Nicolas_Dewolf.png
 description:
-role: phd
+role: exmember
 aliases:
   - Nicolas Dewolf
 links:

@@ -2,7 +2,7 @@
 name: Laure Van Den Bulcke
 image: images/Laure_Vandenbulcke.jpg
 description:
-role: phd
+role: exmember
 aliases:
   - Laure Van Den Bulcke
 links:

@@ -20,7 +20,7 @@ home-page:
 
 email:
   icon: fas fa-envelope
-  text: Email
+  text: $LINK
   tooltip: Email
   link: mailto:$LINK
 

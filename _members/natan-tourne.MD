@@ -1,6 +1,6 @@
 ---
 name: Natan Tourné
-image: images/Natan_Tourne.png
+image: images/people/Natan_Tourne.png
 description:
 role: phd
 aliases:
@@ -12,4 +12,4 @@ links:
   twitter: 
 ---
 
-Multi-target prediction in bioinformatics
+My research focuses on applying deep learning to understand transcriptional regulation. Specifically, I work on predicting the interaction between transcription factors and DNA by leveraging unsupervised pre-training and two-branch neural networks.

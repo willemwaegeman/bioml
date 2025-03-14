@@ -3,19 +3,15 @@
 # site properties and page defaults
 title: BioML Lab
 description: The official website of the BIOML lab.
-logo: images/logo_files/BioML-07.svg
-header: images/background.jpg
+logo: images/logo_files/BioML-01.svg
 footer: images/background.jpg
 baseurl: /bioml
 
 # site social media and other links
 links:
-  email: jane.smith@your-lab.com
-  google-scholar: Jane Smith
-  github: your-lab
-  twitter: YourLabHandle
-  instagram: YourLabHandle
-  youtube: YourLabChannel
+  email: willem.waegeman@ugent.be
+  google-scholar: jdjZppMAAAAJ&hl
+
 
 ### advanced settings
 
@@ -39,6 +35,10 @@ defaults:
       type: "members"
     values:
       layout: member
+  - scope:
+      type: "former_members"
+    values:
+      layout: member
   # markdown files in /_posts
   - scope:
       type: "posts"
@@ -48,6 +48,9 @@ defaults:
 # collections
 collections:
   members:
+    output: true
+
+  former_members:
     output: true
 
 # sass settings

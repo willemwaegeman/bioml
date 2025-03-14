@@ -1,6 +1,6 @@
 ---
 name: Gaetan De Waele
-image: images/Gaetan_De_Waele.png
+image: images/people/Gaetan_De_Waele.png
 description:
 role: phd
 aliases:
@@ -12,4 +12,5 @@ links:
 ---
 
 
-Deep learning in genomics
+I perform research on porting transformer neural networks to various biological data domains. I have a particular interest in (1) translating symmetries and geometric properties of biological data to model design, and (2) self-supervised learning approaches.
+
