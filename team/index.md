@@ -137,7 +137,7 @@ align-items: center;
   link1="https://www.flandersairesearch.be/en"
   tooltip1="Flanders AI"
 
-    image2="images/institutions/ghentUniversity.png"
+    image2="images/institutions/ghentLargeIcon.png"
     link2="https://www.ugent.be/en"
     tooltip2="Ghent University"
 
