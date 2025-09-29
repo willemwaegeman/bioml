@@ -2,7 +2,7 @@
 name: Gaetan De Waele
 image: images/people/Gaetan_De_Waele.png
 description:
-role: phd
+role: exmember
 aliases:
   - Gaetan De Waele
 links:
