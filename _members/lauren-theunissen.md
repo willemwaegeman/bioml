@@ -2,7 +2,7 @@
 name: Lauren Theunissen
 image: images/Lauren_Theunissen.png
 description:
-role: phd
+role: exmember
 aliases:
   - Lauren Theunissen
 links:
